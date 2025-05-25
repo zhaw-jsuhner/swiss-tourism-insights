@@ -1,0 +1,980 @@
+hotel,place,price_per_night,rating,review_counter
+Hard Rock Hotel Davos,Davos,€ 225,"8,4",1.653 Bewertungen
+Good Night Inn,Brig,€ 138,"8,2",2.669 Bewertungen
+Agriturismo Regusci,Camorino,€ 165,"8,7",765 Bewertungen
+Ustreia Orta,Lohn,€ 169,"9,6",52 Bewertungen
+Hotel Drei Könige,Einsiedeln,€ 177,"8,6",948 Bewertungen
+Eringer Hotel,Hérémence,€ 228,"8,2",360 Bewertungen
+Auberge des Grands Bois,Buchillon,€ 174,"8,7",1.375 Bewertungen
+La Pierre à Catillon,Moleson,€ 90,"7,6",468 Bewertungen
+Familiehotel La Randulina,Ramosch,€ 174,"8,7",21 Bewertungen
+Casa ViniToscani,Perroy,€ 142,"8,7",416 Bewertungen
+Hôtel du Cheval Blanc - City center,Bulle,€ 113,"8,4",1.661 Bewertungen
+Between Boutique Hotel,Chamoson,€ 129,"8,0",372 Bewertungen
+Hilton Garden Inn Zurich Limmattal,Spreitenbach,€ 118,"7,5",849 Bewertungen
+YOTEL Geneva Lake,Founex,€ 129,"8,8",848 Bewertungen
+Hotel Kloster Fischingen,Fischingen,€ 174,"9,2",530 Bewertungen
+Ruhige Zimmer im Grünen und Studio im Naherholungsgebiet,Sigigen,€ 122,"8,7",307 Bewertungen
+ibis budget Basel Pratteln,Pratteln,€ 101,"7,2",2.573 Bewertungen
+Pensione Capelli,Prada,€ 127,"9,0",224 Bewertungen
+Vienna House by Wyndham zur Bleiche Schaffhausen,Schaffhausen,€ 173,"8,3",1.879 Bewertungen
+Hotel Ristorante Baldi,Fiesso,€ 127,"8,0",917 Bewertungen
+Hôtel Le Grand Chalet,Leysin,€ 264,"8,7",1.340 Bewertungen
+Hotel Balsthal,Balsthal,€ 190,"8,5",1.283 Bewertungen
+Pez Regina - Nordic Style Alps Hotel,Lumbrein,€ 231,"8,7",64 Bewertungen
+Villmergen Swiss Quality Hotel,Villmergen,€ 159,"8,6",925 Bewertungen
+Maison d'hôtes Ermitage,Chateau-d'Oex,€ 225,"8,8",272 Bewertungen
+Hotel Lindenhof by Crossworld AG,Brienz,€ 252,"7,9",2.513 Bewertungen
+Holiday Inn Express & Suites Sion by IHG,Sion,€ 154,"8,6",170 Bewertungen
+Dorint Resort & Spa Locarno-Riazzino - New Opening,Riazzino,€ 308,"9,1",411 Bewertungen
+flexymotel Buchs,Buchs,€ 138,"8,4",60 Bewertungen
+Hotel Mona,"Stadtzentrum von Montreux, Montreux",€ 287,"8,7",5.739 Bewertungen
+Interlaken Youth Hostel,"Innenstadt, Interlaken",€ 310,"8,3",2.835 Bewertungen
+Boutique Hotel Bellevue B&B am Brienzersee Iseltwald Interlaken,Iseltwald,€ 349,"8,6",1.041 Bewertungen
+Hotel-Restaurant Seegarten-Marina,Spiez,€ 253,"8,4",1.107 Bewertungen
+LES TOURISTES,Le Chatelard,€ 212,"8,8",209 Bewertungen
+Hôtel de ville du Sentier,Le Sentier,€ 156,"7,9",390 Bewertungen
+La Croix Fédérale,Pruntrut,€ 178,"8,6",129 Bewertungen
+"Me and All Hotel Flims, by Hyatt",Flims,€ 267,"8,9",1.064 Bewertungen
+See- und Seminarhotel FloraAlpina Vitznau,Vitznau,€ 482,"9,0",1.149 Bewertungen
+Motel Gottardo Sud,Piotta,€ 229,"8,1",2.061 Bewertungen
+Modern Studios Mendrisio,Mendrisio,€ 155,"8,2",836 Bewertungen
+Holiday Inn Express Zürich Airport by IHG,Rümlang,€ 216,"8,4",6.939 Bewertungen
+Braunbär Hotel & Spa - Former Alpine Sunstar Hotel,Wengen,€ 349,"8,8",197 Bewertungen
+limehome Basel Münzgasse,"Altstadt Grossbasel, Basel",€ 230,"8,6",1.285 Bewertungen
+Courtyard by Marriott Biel Bienne,Biel/Bienne,€ 199,"8,4",469 Bewertungen
+"""The Freddie Mercury"" Hotel","Stadtzentrum von Montreux, Montreux",€ 194,"8,3",1.402 Bewertungen
+Royal Plaza Montreux,"Stadtzentrum von Montreux, Montreux",€ 259,"8,2",2.637 Bewertungen
+Nash Airport Hotel,Genf,€ 112,"8,3",14.065 Bewertungen
+Hotel Internazionale Bellinzona,Bellinzona,€ 217,"8,4",1.288 Bewertungen
+Hotel Restaurant Walliser Sonne,Reckingen - Gluringen,€ 135,"7,0",1.359 Bewertungen
+Cubilaris Motel,Bad Ragaz,€ 177,"9,0",1.008 Bewertungen
+Hotel Bellinzona Sud Swiss Quality,Monte Carasso,€ 203,"8,6",2.414 Bewertungen
+Stay KooooK Bern City - Online Check In,"Altstadt von Bern, Bern",€ 198,"8,9",4.171 Bewertungen
+Auberge de l'Hospice,Gebirgspass Grosser St. Bernhard,€ 171,"8,9",309 Bewertungen
+Hotel Schiff am Rhein,Rheinfelden,€ 219,"8,3",374 Bewertungen
+Hôtel du Grand Lac Excelsior,Montreux,€ 238,"8,0",2.628 Bewertungen
+Hotel Nufenen,Ulrichen,€ 200,"8,8",354 Bewertungen
+Ambiente Hotel Freieck,Chur,€ 189,"8,6",3.730 Bewertungen
+Hotel Ascona,Ascona,€ 257,"8,5",1.124 Bewertungen
+Hotel Schützen Lauterbrunnen,Lauterbrunnen,€ 242,"7,4",1.836 Bewertungen
+Weisses Kreuz,Lyss,€ 185,"8,3",576 Bewertungen
+Perron 10 Centra Hotel Winterthur,Winterthur,€ 154,"7,8",613 Bewertungen
+Borgovecchio Albergo,Balerna,€ 117,"7,8",898 Bewertungen
+ibis budget Lugano Paradiso,Lugano,€ 139,"8,0",245 Bewertungen
+Hampton By Hilton Locarno,Losone,€ 231,"8,6",371 Bewertungen
+Nash Suites Airport Hotel,Genf,€ 134,"8,4",9.231 Bewertungen
+B&B HOTEL Geneva Airport,Genf,€ 124,"8,7",8.432 Bewertungen
+Scuol Youth Hostel,Scuol,€ 303,"8,6",571 Bewertungen
+Hotel Restaurant Bahnhof,Schüpfen,€ 161,"8,1",762 Bewertungen
+B&B HOTEL St Gallen,St. Gallen,€ 126,"8,1",3.819 Bewertungen
+Relais Lucomagno,Olivone,€ 224,"8,8",251 Bewertungen
+Hotel Rotes Kreuz,Arbon,€ 148,"7,4",550 Bewertungen
+Los Lorentes Hotel Bern City,"Mattenhof-Weissenbühl, Bern",€ 160,"8,4",2.779 Bewertungen
+Hotel Muralto Locarno,"Muralto, Locarno",€ 217,"8,8",3.896 Bewertungen
+Hotel Bristol,Zermatt,€ 442,"9,2",1.621 Bewertungen
+B&B HOTEL Basel,Basel,€ 150,"7,7",8.172 Bewertungen
+Motel Steighof,Brütten,€ 126,"7,7",847 Bewertungen
+Grichting Hotel & Serviced Apartments,Leukerbad,€ 167,"8,0",1.678 Bewertungen
+Tralala Hotel Montreux,Montreux,€ 227,"8,2",2.072 Bewertungen
+Ibis Sion,Sion,€ 149,"7,7",1.329 Bewertungen
+Hotel Hirschen am See,Meilen,€ 168,"8,3",1.115 Bewertungen
+Gyger Restaurant Confiserie B&B,Thusis,€ 279,"8,9",1.176 Bewertungen
+Edelweiss Lodge,Wilderswil,€ 215,"8,8",958 Bewertungen
+Everness Hotel & Resort,Chavannes-de-Bogis,€ 189,"8,3",1.596 Bewertungen
+Chasa Castello relax & spa,Samnaun,€ 264,"9,2",555 Bewertungen
+Sporthotel Victoria,Gstaad,€ 410,"8,5",621 Bewertungen
+Naturfreunde Hostel Grindelwald,Grindelwald,€ 189,"7,9",1.204 Bewertungen
+Sorell Hotel Sonnental,Dübendorf,€ 219,"8,4",2.674 Bewertungen
+Hotel Morgana,Mendrisio,€ 180,"7,6",1.679 Bewertungen
+Sommerau-Ticino Swiss Quality Hotel,Dietikon,€ 173,"7,8",890 Bewertungen
+Belle Epoque Hotel Victoria & Apartments,Kandersteg,€ 233,"8,4",946 Bewertungen
+Adventure Hostel Interlaken,Interlaken,€ 448,"8,7",2.139 Bewertungen
+Hotel Admiral Lugano,Lugano,€ 238,"8,3",3.647 Bewertungen
+Hotel Suisse,"Saint-Gervais / des Grottes, Genf",€ 192,"8,4",3.585 Bewertungen
+Radisson Hotel Zurich Airport,Rümlang,€ 143,"7,8",6.928 Bewertungen
+Hôtel de Ville,Greyerz,€ 263,"8,2",1.301 Bewertungen
+Seiler's Hotel,Liestal,€ 135,"7,8",312 Bewertungen
+Hôtel Von Bergen,La Sagne,€ 201,"9,0",435 Bewertungen
+Boutique Hotel Krone,Winterthur,€ 189,"8,9",1.264 Bewertungen
+Hotel Winkelried am See,Stansstad,€ 332,"8,7",779 Bewertungen
+Escale sur la Côte,Pruntrut,€ 178,"9,8",39 Bewertungen
+Hotel Luzernerhof,"Altstadt, Luzern",€ 337,"7,8",754 Bewertungen
+Blue Sky Apartments,Göschenen,€ 255,"9,1",124 Bewertungen
+E-Rooms Minusio,"Minusio, Locarno",€ 266,"7,7",2.994 Bewertungen
+Courtyard by Marriott Basel,Pratteln,€ 171,"8,1",536 Bewertungen
+Ristorante Del Ponte,Cugnasco,€ 157,"7,9",504 Bewertungen
+The Yarn,Horgen,€ 266,"8,9",662 Bewertungen
+Regina Bed & Breakfast,Agno TI,€ 143,"8,4",667 Bewertungen
+Hotel Berghof Amaranth,Wilderswil,€ 441,"8,1",2.489 Bewertungen
+Hotel Lötschberg,"Innenstadt, Interlaken",€ 288,"8,3",1.708 Bewertungen
+Ruby Claire Hotel Geneva,"Innenstadt, Genf",€ 186,"8,5",6.300 Bewertungen
+Simple Rooms - Yellow Inn,St. Gallen,€ 145,"9,0",1.889 Bewertungen
+Hotel Landhaus,Münster VS,€ 453,"9,0",690 Bewertungen
+Beau Rivage Hotel,Neuenburg,€ 326,"8,8",1.050 Bewertungen
+Casa Styner,Aarau,€ 124,"8,1",43 Bewertungen
+Seedamm Plaza,Pfäffikon,€ 210,"8,6",1.529 Bewertungen
+ibis Genève Centre Nations,"Petit-Saconnex / Servette, Genf",€ 147,"8,1",9.699 Bewertungen
+Hotel Liberty Self Check-In,Bellinzona,€ 156,"7,3",2.668 Bewertungen
+Hotel Christiania Saas-Fee,Saas-Fee,€ 281,"8,4",434 Bewertungen
+IntercityHotel Zürich Airport,Rümlang,€ 153,"8,3",3.115 Bewertungen
+Hilton Garden Inn Davos,Davos,€ 175,"8,5",1.274 Bewertungen
+Motel One Zürich,"Enge, Zürich",€ 292,"8,5",10.163 Bewertungen
+B&B HOTEL Zürich Wallisellen,"Wallisellen, Wallisellen",€ 145,"7,8",3.240 Bewertungen
+Best Western Hotel Rebstock,Rorschacherberg,€ 225,"9,1",1.355 Bewertungen
+Hotel Rubus,Effretikon,€ 132,"7,9",554 Bewertungen
+Hôtel Les Bains d'Ovronnaz,Ovronnaz,€ 597,"7,3",2.058 Bewertungen
+Hotel Murtenhof & Krone,Murten,€ 605,"8,5",895 Bewertungen
+Holiday Inn Express - Aarburg - Oftringen by IHG,Oftringen,€ 242,"8,5",2.372 Bewertungen
+Fleur de Lis,Le Locle,€ 257,"8,6",376 Bewertungen
+Hotel Bernina Hospiz,Berninahäuser,€ 474,"8,5",953 Bewertungen
+Hotel Cervo,Sils im Engadin,€ 287,"8,4",1.607 Bewertungen
+Hotel Slalom,Bettmeralp,€ 197,"9,0",268 Bewertungen
+Zleep Hotel Zürich-Kloten,"Kloten, Kloten",€ 157,"8,2",747 Bewertungen
+76 The Lake House - Lugano,Melide,€ 434,"8,8",339 Bewertungen
+citizenM Geneva,"Innenstadt, Genf",€ 267,"8,6",5.284 Bewertungen
+Adventure Guesthouse Interlaken,Interlaken,€ 360,"8,8",1.260 Bewertungen
+Morges House,Morges,€ 91,"7,4",244 Bewertungen
+Hôtel des Alpes,Nyon,€ 186,"7,6",462 Bewertungen
+Hotel Residence Loren - contact & contactless check-in,Uster,€ 195,"7,9",451 Bewertungen
+Ramada by Wyndham Baden Hotel du Parc,Baden,€ 210,"7,8",2.100 Bewertungen
+Martigny Youth Hostel,Martigny-Ville,€ 154,"9,9",11 Bewertungen
+Los Lorentes Hotel Bern Airport,Belp,€ 187,"8,5",952 Bewertungen
+Moxy Rapperswil,Rapperswil-Jona,€ 189,"8,4",1.114 Bewertungen
+Posthotel Valbella,Valbella,€ 244,"8,7",622 Bewertungen
+Stay KooooK Bern Wankdorf - Online Check In,"Breitenrain-Lorraine, Bern",€ 191,"8,8",2.211 Bewertungen
+L'Hôtel by Hostellerie du Château,Rolle,€ 254,"8,0",367 Bewertungen
+Hotel Crystal Interlaken,"Innenstadt, Interlaken",€ 270,"8,1",1.294 Bewertungen
+"Parkhotel Delta, Wellbeing Resort",Ascona,€ 716,"8,7",942 Bewertungen
+Hotel de l’Ours Preles,Prêles,€ 298,"9,6",917 Bewertungen
+Zak Neuhausen,Neuhausen am Rheinfall,€ 172,"7,6",592 Bewertungen
+Hôtel du Gd-St-Bernard,Liddes,€ 130,"8,3",345 Bewertungen
+Campra Alpine Lodge & Spa,Olivone,€ 385,"8,9",257 Bewertungen
+Hôtel Hermitage,Evolène,€ 121,"8,2",128 Bewertungen
+Eh!Toi Self Motel,Etoy,€ 154,"8,6",833 Bewertungen
+Auberge du Mouton,Pruntrut,€ 200,"8,5",501 Bewertungen
+Hotel Piz Buin Klosters,Klosters-Serneus,€ 435,"9,1",532 Bewertungen
+Bed and Breakfast 57,Asuel,€ 121,"9,0",194 Bewertungen
+25hours Hotel Langstrasse,"Aussersihl, Zürich",€ 263,"8,6",2.788 Bewertungen
+Ufem Egg Ferienwohnungen,Innertkirchen,€ 155,"8,9",424 Bewertungen
+Hotel Garni Montaldi,"Muralto, Locarno",€ 200,"7,8",1.781 Bewertungen
+Auberge d'Etoy,Etoy,€ 140,"8,1",90 Bewertungen
+HYPERION Hotel Basel,"Basel Stadtzentrum, Basel",€ 211,"8,2",5.875 Bewertungen
+Hôtel des Patients,Lausanne,€ 171,"9,0",3.651 Bewertungen
+Bern Youth Hostel,"Mattenhof-Weissenbühl, Bern",€ 220,"8,4",3.090 Bewertungen
+Mövenpick Hotel Zürich-Airport,Glattbrugg,€ 155,"7,4",3.264 Bewertungen
+Historisches Hotel Bären,Kiental,€ 386,"7,6",1.125 Bewertungen
+Aarau West Swiss Quality Hotel,Oberentfelden,€ 193,"8,4",349 Bewertungen
+"Hotel Egerkingen, idealer Zwischenstopp",Egerkingen,€ 147,"8,0",941 Bewertungen
+Lodge Hof Weissbad,Weissbad,€ 252,"8,7",510 Bewertungen
+Self Check-in Hotel von Rotz,Wil,€ 187,"8,8",1.087 Bewertungen
+Hotel Felix,"Stadtzentrum, Zürich",€ 353,"8,7",4.190 Bewertungen
+IntercityHotel Geneva,Genf,€ 124,"8,6",2.590 Bewertungen
+Experimental Chalet,Verbier,€ 459,"8,7",326 Bewertungen
+Hotel Daniela,Zermatt,€ 540,"9,4",995 Bewertungen
+Zleep Hotel Lausanne-Chavannes,"Chavannes-pres-Renens, Lausanne",€ 120,"7,8",591 Bewertungen
+Hotel Colibrì,Lugano,€ 183,"8,5",1.924 Bewertungen
+Hotel La Pergola,"Mattenhof-Weissenbühl, Bern",€ 211,"7,9",1.915 Bewertungen
+Zappa Lake Lodge,Brusino Arsizio,€ 143,"7,5",820 Bewertungen
+AMERON Davos Swiss Mountain Resort,Davos,€ 303,"8,8",1.142 Bewertungen
+Zurich Youth Hostel,"Wollishofen, Zürich",€ 404,"8,4",4.201 Bewertungen
+Hotel Conrad,Scuol,€ 247,"8,9",418 Bewertungen
+Ruby Mimi Hotel Zurich,"Stadtzentrum, Zürich",€ 354,"8,6",7.121 Bewertungen
+Hotel Swiss Bellevue,Kreuzlingen,€ 163,"8,3",785 Bewertungen
+WELCOME HOTEL - Hellbühl Self-Check-in,Hellbühl,€ 164,"7,0",892 Bewertungen
+Hostel by Hyve Basel,Basel,€ 428,"8,5",2.930 Bewertungen
+Afterwork Hotel,Etoy,€ 231,"8,9",869 Bewertungen
+The Chedi Andermatt,Andermatt,€ 1.340,"9,3",734 Bewertungen
+Oasi di Laura a Balerna,Balerna,€ 133,"9,1",282 Bewertungen
+Martigny Boutique-Hôtel,Martigny-Ville,€ 208,"8,8",1.446 Bewertungen
+Continental Hotel Lausanne,"Stadtzentrum von Lausanne, Lausanne",€ 177,"8,1",3.440 Bewertungen
+Wellness Hotel Aquafit Sursee,Sursee,€ 231,"8,2",1.501 Bewertungen
+Gasthaus Edelweiss,Vals,€ 140,"8,5",295 Bewertungen
+Swiss Lodge Nassa Garni,"Stadtzentrum von Lugano, Lugano",€ 222,"7,9",2.409 Bewertungen
+Hotel Coop Tagungszentrum & Hotelpark im Grünen,Muttenz,€ 180,"8,3",704 Bewertungen
+CP Resort,Taverne,€ 164,"8,5",632 Bewertungen
+HOTEL ENGEL LIESTAL - Business & Lifestyle,Liestal,€ 224,"8,3",475 Bewertungen
+Auberge du Mont Blanc,Trient VS,€ 129,"7,6",513 Bewertungen
+Grand Resort Bad Ragaz,Bad Ragaz,€ 995,"9,5",806 Bewertungen
+Novotel Basel City,Basel,€ 161,"8,5",2.822 Bewertungen
+Hotel Post,Sargans,€ 177,"8,3",828 Bewertungen
+Miralago Locarno Easy Rooms,"Muralto, Locarno",€ 254,"8,7",1.087 Bewertungen
+Hotel Baslertor,Muttenz,€ 152,"8,2",567 Bewertungen
+Garni Moderno,Bellinzona,€ 125,"7,0",599 Bewertungen
+Lo Scudo di Stabio,Stabio,€ 190,"8,9",111 Bewertungen
+NH Geneva Airport Hotel,Genf,€ 147,"8,5",4.330 Bewertungen
+Novotel Lausanne Bussigny,"Bussigny-pres-Lausanne, Lausanne",€ 183,"7,9",1.820 Bewertungen
+"Modern Times Hotel, Vevey, A Tribute Portfolio Hotel",Vevey,€ 181,"8,3",1.527 Bewertungen
+Centurion Swiss Quality Towerhotel Windisch,Brugg,€ 187,"8,7",827 Bewertungen
+Domaine de Châteauvieux,Peney-Dessus,€ 363,"9,1",142 Bewertungen
+ibis Baar Zug,"Baar, Zug",€ 155,"7,7",1.005 Bewertungen
+Hôtel les Berges,Chippis,€ 150,"8,3",443 Bewertungen
+citizenM Zürich,"Stadtzentrum, Zürich",€ 334,"8,6",4.087 Bewertungen
+Chrona Bed & Breakfast,Jenaz,€ 160,"8,5",143 Bewertungen
+Moxy Lausanne City,"Stadtzentrum von Lausanne, Lausanne",€ 130,"8,6",2.511 Bewertungen
+Hotel Restaurant Bänklialp,Engelberg,€ 371,"8,3",926 Bewertungen
+Warwick Geneva,"Paquis, Genf",€ 255,"8,4",4.179 Bewertungen
+Hôtel du Port - Free Parking - Breakfast included,Estavayer-le-Lac,€ 200,"8,3",520 Bewertungen
+Auberge des Charmettes,Bourg-Saint-Pierre,€ 143,"8,0",200 Bewertungen
+Gasthof Enge Self Check-In Hotel,Solothurn,€ 139,"7,9",622 Bewertungen
+Kreuzlingen Youth Hostel,Kreuzlingen,€ 151,"8,4",323 Bewertungen
+Historic Hotel Steinbock,Wilderswil,€ 242,"7,7",1.464 Bewertungen
+ibis Winterthur City,Winterthur,€ 121,"7,2",1.077 Bewertungen
+Centra Hotel Zurich,Bassersdorf,€ 189,"8,6",829 Bewertungen
+Holiday Inn Express Geneva Airport by IHG,Genf,€ 181,"8,2",5.579 Bewertungen
+La Belle-Croix,Romont,€ 194,"8,3",290 Bewertungen
+Gasthof Bären,Habkern,€ 222,"9,1",639 Bewertungen
+N's Hotel - Self-Check-in Hotel,Kerzers,€ 146,"8,1",27 Bewertungen
+Ferien am Luganer See mit Seesicht,Bissone,€ 455,"8,1",68 Bewertungen
+Hôtel de la Forêt,Crans-Montana,€ 161,"8,1",881 Bewertungen
+Gasthof Frohsinn,Flurlingen,€ 179,"8,2",52 Bewertungen
+Hotel Bristol Relais du Silence Superior,Adelboden,€ 231,"8,6",794 Bewertungen
+House of Harmony,Stäfa,€ 121,"7,2",848 Bewertungen
+Boutique & Business Hotel La Tureta,Bellinzona,€ 239,"9,0",1.458 Bewertungen
+Aparthotel Adagio Zurich City Center,"Unterstrass, Zürich",€ 394,"8,1",2.924 Bewertungen
+Acquarello Swiss Quality Hotel,"Stadtzentrum von Lugano, Lugano",€ 242,"8,3",1.997 Bewertungen
+ibis Basel Bahnhof,Basel,€ 141,"8,0",4.355 Bewertungen
+"Hotel-Restaurant Le Mont Paisible, Crans-Montana",Crans-Montana,€ 210,"9,0",656 Bewertungen
+Hotel Belvedere Locarno,Locarno,€ 427,"9,1",1.057 Bewertungen
+Radisson Hotel & Suites Zurich,Opfikon,€ 210,"8,0",4.703 Bewertungen
+Hotel De La Paix,"Stadtzentrum von Lugano, Lugano",€ 229,"8,9",2.098 Bewertungen
+Hotel Lido Seegarten,Lugano,€ 486,"8,8",2.314 Bewertungen
+Royal Swiss Apartments,Ringgenberg,€ 211,"8,2",370 Bewertungen
+Palazzo Canetti Locarno - Piazza Grande - Suites & Rooms - Easy Self Check-In,Locarno,€ 233,"8,9",91 Bewertungen
+Six Senses Crans-Montana,Crans-Montana,€ 828,"9,2",196 Bewertungen
+La Cordée des Alpes SUP,Verbier,€ 592,"9,2",280 Bewertungen
+Schäfli,Amden,€ 133,"7,6",720 Bewertungen
+Evi's Home Hotel & Apartments,"Breitenrain-Lorraine, Bern",€ 215,"8,5",1.519 Bewertungen
+Schloss Wartensee,Rorschacherberg,€ 199,"8,5",729 Bewertungen
+Hotel La Prairie,Crans-Montana,€ 231,"8,6",855 Bewertungen
+Essential by Dorint Basel City,"Basel Stadtzentrum, Basel",€ 173,"8,6",3.950 Bewertungen
+Hotel Krone Speicher,Speicher,€ 287,"9,1",402 Bewertungen
+Reitstall und Saloon San Jon,Scuol,€ 206,"8,8",153 Bewertungen
+Drei Könige,Entlebuch,€ 224,"8,5",261 Bewertungen
+Hotel City Locarno,Locarno,€ 281,"8,7",1.800 Bewertungen
+Crowne Plaza Zürich by IHG,"Aussersihl, Zürich",€ 185,"7,9",5.149 Bewertungen
+Appartement thématique: Nature Scandinave,Travers,€ 249,"9,4",53 Bewertungen
+Garni Elisabetta,Gordola,€ 135,"8,1",257 Bewertungen
+Trafo Hotel Baden,Baden,€ 210,"8,5",727 Bewertungen
+Hôtel Le White - Le 42 Restaurant,Champéry,€ 190,"9,0",632 Bewertungen
+Hotel Central La Fainera Superior,Valchava,€ 258,"9,3",174 Bewertungen
+Charme Hotel al Torchio,Ascona,€ 263,"9,1",1.090 Bewertungen
+"Cosy studio for 5 near ski lift, HAMEAU D2",Les Collons,€ 223,"8,3",47 Bewertungen
+Le Leman Hotel,Vevey,€ 235,"8,3",735 Bewertungen
+Grotto del Pan Perdü,Carona,€ 167,"8,8",160 Bewertungen
+Auberge de la Réunion,Coinsins,€ 172,"8,7",518 Bewertungen
+Hotel Du Soleil,Saint-Léonard,€ 140,"8,3",300 Bewertungen
+Carlton Lausanne Boutique Hôtel,Lausanne,€ 225,"8,3",2.632 Bewertungen
+Montreux Youth Hostel,Montreux,€ 400,"8,6",933 Bewertungen
+Sunstar Hotel Lenzerheide,Lenzerheide/Lai,€ 249,"8,6",649 Bewertungen
+Garni Hotel Torkelbündte,Bad Ragaz,€ 227,"9,0",528 Bewertungen
+Hotel Schweizerhof Sta Maria,Sta Maria Val Müstair,€ 222,"7,8",216 Bewertungen
+Hotel Brocco & Posta,San Bernardino,€ 217,"8,5",107 Bewertungen
+Hotel Restaurant La Porte d'Octodure,Martigny-Ville,€ 229,"7,8",699 Bewertungen
+Elite,"Stadtzentrum von Lausanne, Lausanne",€ 148,"8,3",2.588 Bewertungen
+"Radisson Blu, Basel","Vorstädte, Basel",€ 178,"8,1",3.409 Bewertungen
+Appartement de vacances,Saulcy,€ 208,"9,6",45 Bewertungen
+Hotel Elvezia Ascona,Ascona,€ 222,"8,5",846 Bewertungen
+Berger Zentrum,Berg,€ 113,"7,8",603 Bewertungen
+Hotel Bristol Zurich,"Unterstrass, Zürich",€ 346,"8,1",5.251 Bewertungen
+Premium Apartments - central & historical,Meiringen,€ 532,"9,3",47 Bewertungen
+Hotel Unione,Bellinzona,€ 257,"8,4",620 Bewertungen
+Hotel della Posta,Biasca,€ 164,"6,9",616 Bewertungen
+Hotel Swiss Bellevue Aathal,Seegräben,€ 128,"6,9",171 Bewertungen
+Hotel Rousseau,"Saint-Gervais / des Grottes, Genf",€ 224,"8,0",2.196 Bewertungen
+Downtown Apartments,"Innenstadt, Interlaken",€ 426,"8,3",902 Bewertungen
+City Pop 2Night Basel - Self check-in,Basel,€ 125,"8,1",586 Bewertungen
+Hotel San Carlo,"Stadtzentrum von Lugano, Lugano",€ 172,"7,7",2.068 Bewertungen
+Hotel Station,Pontresina,€ 407,"8,3",1.260 Bewertungen
+Lugano Superior Suites - Free Parking,Lugano,€ 503,"9,4",1.322 Bewertungen
+"Hotel Valaisia Crans Montana, a Faern Collection Resort",Crans-Montana,€ 322,"8,6",1.064 Bewertungen
+Le Relais de la Croisée,Malvilliers,€ 181,"8,3",14 Bewertungen
+Hotel Restaurant Schlössli Sax,Sax,€ 199,"9,1",734 Bewertungen
+Royal Manotel,"Paquis, Genf",€ 245,"8,1",4.285 Bewertungen
+Hotel Park,Fiesch,€ 158,"6,5",498 Bewertungen
+Zug Youth Hostel,Zug,€ 330,"8,6",562 Bewertungen
+LUGANODANTE Boutique & Lifestyle Hotel,"Stadtzentrum von Lugano, Lugano",€ 334,"9,2",2.810 Bewertungen
+Mövenpick Hotel Lausanne,Lausanne,€ 211,"8,3",1.665 Bewertungen
+Hotel Weissenstein,Oberdorf,€ 304,"8,7",135 Bewertungen
+Hotel al Ponte Antico,Intragna TI,€ 239,"9,1",322 Bewertungen
+Kempinski Palace Engelberg,Engelberg,€ 767,"9,5",765 Bewertungen
+Hotel Bernina 1865 by Kleos Group Collection,Samedan,€ 288,"8,3",1.895 Bewertungen
+Hotel Bristol,"Saint-Gervais / des Grottes, Genf",€ 425,"9,1",1.667 Bewertungen
+Hotel Olympica,Brig,€ 157,"8,3",835 Bewertungen
+Towerhotel,Waldkirch,€ 114,"8,0",261 Bewertungen
+Hôtel Glanis,Gland VD,€ 224,"8,7",504 Bewertungen
+harry's home Zürich-Limmattal,Spreitenbach,€ 148,"8,5",966 Bewertungen
+Hotel Royal Luzern,Luzern,€ 299,"8,2",1.282 Bewertungen
+Hotel San Giobbe,Giubiasco,€ 159,"7,3",415 Bewertungen
+Hotel Vadian Garni,St. Gallen,€ 170,"8,6",1.070 Bewertungen
+Grand Hotel et Centre Thermal d'Yverdon-les-Bains,Yverdon-les-Bains,€ 214,"7,6",3.248 Bewertungen
+Hirschen Guesthouse - Village Hotel,Wildhaus,€ 239,"8,0",428 Bewertungen
+K BUSINESS,Zuchwil,€ 202,"8,3",308 Bewertungen
+Glärnischhof by TRINITY,"Enge, Zürich",€ 377,"8,3",4.758 Bewertungen
+Villa Sassa,Lugano,€ 368,"8,1",1.503 Bewertungen
+Autohalle Hotel,Andelfingen,€ 288,"9,3",545 Bewertungen
+Holiday Inn Zürich Messe by IHG,"Oerlikon, Zürich",€ 221,"8,2",3.579 Bewertungen
+B&B ALLA PIAZZETTA DI TEGNA,Tegna,€ 241,"9,1",172 Bewertungen
+Maison de Maître,Tramelan,€ 439,"9,0",4 Bewertungen
+Grotto Flora B&B Chambres de charme,Bigogno,€ 156,"8,8",489 Bewertungen
+Mountain Lodge,Grächen,€ 279,"9,1",205 Bewertungen
+Lenkerhof gourmet spa resort - Relais & Châteaux,Lenk im Simmental,€ 556,"9,0",697 Bewertungen
+Holiday Inn Bern Westside by IHG,Bern,€ 217,"8,4",1.908 Bewertungen
+Geneva Marriott Hotel,Genf,€ 262,"8,8",1.190 Bewertungen
+ibis Styles Bern City,"Mattenhof-Weissenbühl, Bern",€ 209,"8,5",3.403 Bewertungen
+Parkhotel Emmaus - Casa Rustico,Ascona,€ 177,"8,2",218 Bewertungen
+Herisau Swiss Quality Hotel,Herisau,€ 203,"8,5",399 Bewertungen
+Marmont Hotel,"Innenstadt, Genf",€ 190,"8,0",1.605 Bewertungen
+Hotel Allegro Einsiedeln,Einsiedeln,€ 332,"7,9",841 Bewertungen
+The Henry Self Check-In Guesthouse,"Langstrasse, Zürich",€ 248,"7,7",3.597 Bewertungen
+Hotel Metropol,St. Gallen,€ 196,"8,1",1.317 Bewertungen
+Moxy Bern Expo,"Breitenrain-Lorraine, Bern",€ 218,"8,4",2.443 Bewertungen
+SwissEver Hotel Zug,"Cham, Zug",€ 232,"8,0",617 Bewertungen
+Hotel Stern Chur,Chur,€ 289,"8,4",1.304 Bewertungen
+Hôtel du Chasseur,Enges,€ 139,"8,5",508 Bewertungen
+Hotel Angleterre,Lausanne,€ 255,"8,9",1.063 Bewertungen
+Lausanne Youth Hostel Jeunotel,Lausanne,€ 159,"7,5",2.196 Bewertungen
+"Grand Hotel Suisse Majestic, Autograph Collection","Stadtzentrum von Montreux, Montreux",€ 333,"8,9",1.181 Bewertungen
+Romantik Hôtel l'Etoile,Charmey,€ 291,"8,2",336 Bewertungen
+Piccolo Hotel,"Muralto, Locarno",€ 223,"9,1",853 Bewertungen
+Hostellerie Le Petit Manoir,Morges,€ 251,"8,3",430 Bewertungen
+Hyatt Regency Zurich Airport Circle,"Kloten, Kloten",€ 226,"8,9",2.703 Bewertungen
+"Hotel Victoria Lauberhorn Wengen, a Faern Collection Hotel",Wengen,€ 408,"8,3",1.648 Bewertungen
+Chalet del Sole,Quinto,€ 99,"8,8",111 Bewertungen
+Hotel Merkur - West Station,"Innenstadt, Interlaken",€ 386,"8,8",1.102 Bewertungen
+Palazzo Branca - Unique experience,Brissago,€ 436,"9,7",15 Bewertungen
+Placid Hotel Design & Lifestyle Zurich,"Altstetten, Zürich",€ 162,"8,3",3.159 Bewertungen
+Fischers Lodge,Innerthal,€ 118,"8,3",249 Bewertungen
+Hotel Krebs Interlaken,"Innenstadt, Interlaken",€ 395,"8,4",1.262 Bewertungen
+Hamilton Lodge & Spa,Belalp,€ 230,"9,0",274 Bewertungen
+Seehotel Riviera at Lake Lucerne,Gersau,€ 288,"8,2",573 Bewertungen
+Saanen Gstaad Youth Hostel,"Saanen, Gstaad",€ 311,"8,5",673 Bewertungen
+J5 Hotels Helvetie & La Brasserie,"Stadtzentrum von Montreux, Montreux",€ 228,"7,8",2.443 Bewertungen
+harry's home Zürich-Wallisellen,"Wallisellen, Wallisellen",€ 232,"8,2",1.050 Bewertungen
+Parkhotel Schwert,Weesen,€ 250,"6,9",35 Bewertungen
+Leonardo Boutique Hotel Rigihof Zurich,"Oberstrass, Zürich",€ 199,"7,4",3.902 Bewertungen
+Zurich Furnished Homes,"Aussersihl, Zürich",€ 466,"8,6",1.438 Bewertungen
+L'ANGOLO DEI SAPORI,Rueun,€ 129,"8,3",282 Bewertungen
+Hotel Ristorante Camoghe,Isone,€ 96,"7,9",343 Bewertungen
+H+ Hotel & SPA Engelberg,Engelberg,€ 346,"8,1",2.784 Bewertungen
+ibis Zürich Messe Airport,"Seebach, Zürich",€ 149,"7,4",5.273 Bewertungen
+Al Ponte,Cademario,€ 267,"8,7",263 Bewertungen
+Hôtel Bellevue,Pruntrut,€ 221,"7,8",404 Bewertungen
+Base Nyon,Nyon,€ 252,"9,2",369 Bewertungen
+Hotel de la Poste Verbier,Verbier,€ 243,"8,4",303 Bewertungen
+Suitenhotel Parco Paradiso,Lugano,€ 325,"8,6",1.724 Bewertungen
+Hotel Savoy,"Rotes Quartier, Bern",€ 310,"8,9",1.240 Bewertungen
+The Base Andermatt,Andermatt,€ 482,"9,3",254 Bewertungen
+Hotel Herberge,Teufenthal,€ 201,"7,3",192 Bewertungen
+Hotel Restaurant Kutchi,Bellevue,€ 174,"7,3",161 Bewertungen
+Appartement thématique: Voyage Industriel,Travers,€ 287,"9,9",23 Bewertungen
+Renaissance Zurich Tower Hotel,"Gewerbeschule, Zürich",€ 336,"8,3",719 Bewertungen
+Hotel Millennium,Locarno,€ 275,"8,9",1.248 Bewertungen
+Locke am Platz Zurich,"Enge, Zürich",€ 326,"8,7",1.550 Bewertungen
+Hilton Geneva Hotel and Conference Centre,Genf,€ 200,"7,8",2.062 Bewertungen
+Nira Alpina,Silvaplana,€ 482,"9,4",404 Bewertungen
+Hôtel des Horlogers,Le Brassus,€ 464,"9,4",484 Bewertungen
+Beausite Park Hotel & Spa,Wengen,€ 516,"9,1",518 Bewertungen
+Stay KooooK Geneva City - Online Check In NEW OPENING,"Saint-Gervais / des Grottes, Genf",€ 139,"9,2",1.057 Bewertungen
+Im grünen aber in 20min in Basel,Ettingen,€ 141,"8,5",16 Bewertungen
+La Rouvenaz,"Stadtzentrum von Montreux, Montreux",€ 295,"8,7",1.562 Bewertungen
+Unique Hotel Fusio,Fusio,€ 210,"8,9",51 Bewertungen
+Nydeck,"Altstadt von Bern, Bern",€ 234,"7,6",2.215 Bewertungen
+Seerausch Swiss Quality Hotel,Beckenried,€ 228,"8,3",3.359 Bewertungen
+Imhof Alpine B&B Apartments,Bettmeralp,€ 206,"8,7",396 Bewertungen
+Sorell Hotel Ador,"Mattenhof-Weissenbühl, Bern",€ 271,"8,2",2.265 Bewertungen
+Alpenblick Hotel & Restaurant Wilderswil by Interlaken,Wilderswil,€ 401,"8,3",650 Bewertungen
+Locanda Gandriese,Gandria,€ 115,"7,9",328 Bewertungen
+Hotel Felmis,"Horw, Luzern",€ 243,"8,9",1.337 Bewertungen
+Funny Farm Backpackers,Interlaken,€ 236,"7,8",3.558 Bewertungen
+ibis Locarno,Locarno,€ 198,"8,3",1.584 Bewertungen
+Hotel du Pigne,Arolla,€ 236,"8,9",216 Bewertungen
+Scarpapè,Giubiasco,€ 276,"9,7",166 Bewertungen
+Mövenpick Hotel Basel,Basel,€ 179,"8,8",1.756 Bewertungen
+Swiss Blue Residence-Lake View,Brissago,€ 254,10,3 Bewertungen
+Hotel Sport Klosters,Klosters-Serneus,€ 238,"8,8",401 Bewertungen
+Lake Geneva Hotel,Versoix,€ 195,"8,0",1.603 Bewertungen
+Swiss Star Zurich Airport - Self Check-In,"Kloten, Kloten",€ 133,"6,5",523 Bewertungen
+Zurich Marriott Hotel,"Unterstrass, Zürich",€ 435,"8,3",1.372 Bewertungen
+Landgasthof Sternen,Bühler,€ 261,"9,2",204 Bewertungen
+Hôtel du Grand-Pré,Marly-le-Grand,€ 152,"7,6",373 Bewertungen
+"Am Pavillon, Bed&Kitchen","Länggasse-Felsenau, Bern",€ 183,"8,3",998 Bewertungen
+Hotel Elvezia - Self Check-in,Lavorgo,€ 144,"7,3",308 Bewertungen
+Hotel Splendide Royal,"Stadtzentrum von Lugano, Lugano",€ 416,"9,0",1.188 Bewertungen
+Mountain Majesty Apartment with Stunning Views,Täsch,€ 486,"9,3",51 Bewertungen
+Tertianum Residenza Al Parco Appartements & Restaurant,"Muralto, Locarno",€ 237,"8,6",855 Bewertungen
+Residenza Vivian Deluxe Apartments,Locarno,€ 630,"9,2",387 Bewertungen
+Easy Stay by Hotel La Perla,Ascona,€ 212,"8,2",612 Bewertungen
+Hôtel Les Vieux Toits,Neuenburg,€ 153,"8,3",909 Bewertungen
+Hotel Tobler,Ascona,€ 324,"8,6",760 Bewertungen
+Mövenpick Hotel Geneva,Genf,€ 150,"7,9",1.041 Bewertungen
+Hotel Olympic - Montana Center,Crans-Montana,€ 219,"8,6",509 Bewertungen
+Hotel Neufeld,"Wiedikon, Zürich",€ 195,"8,0",3.572 Bewertungen
+Kipling Manotel,"Paquis, Genf",€ 206,"8,6",3.011 Bewertungen
+Gasthof zur Waag,Bad Zurzach,€ 270,"8,4",570 Bewertungen
+Chromotel self check-in,Mezzovico,€ 176,"7,2",925 Bewertungen
+Hotel Dakota,Meiringen,€ 291,"8,4",1.264 Bewertungen
+Fischerhäuser Romanshorn,Romanshorn,€ 175,"9,4",324 Bewertungen
+Central City Hotel Rochat,"Altstadt Grossbasel, Basel",€ 187,"8,7",3.326 Bewertungen
+Kongress Hotel Davos,Davos,€ 191,"8,2",599 Bewertungen
+Aparthotel Adagio Basel City,"Clara, Basel",€ 163,"8,5",2.104 Bewertungen
+Hotel Dom - das Hotel mit dem Integrationskonzept,St. Gallen,€ 166,"8,8",908 Bewertungen
+Starling Hôtel Résidence Genève,"Les Acacias, Genf",€ 161,"8,5",1.819 Bewertungen
+"Hôtel Borsari, A Member of Design Hotels",Martigny-Ville,€ 261,"9,3",3 Bewertungen
+Geneva Hostel,"Paquis, Genf",€ 105,"8,0",7.878 Bewertungen
+N’vY Manotel,"Paquis, Genf",€ 256,"8,5",3.712 Bewertungen
+Hotel Hine Adon Fribourg,Freiburg im Üechtland,€ 180,"8,4",1.071 Bewertungen
+Villa Patria B&B,Brusino Arsizio,€ 245,"9,4",146 Bewertungen
+Alpinhotel Bort,Grindelwald,€ 363,"8,7",573 Bewertungen
+Seilers Vintage Hotel & Spa,Kandersteg,€ 300,"8,6",750 Bewertungen
+Hotel Bergsonne Rigi,Rigi Kaltbad,€ 317,"8,7",625 Bewertungen
+Crowne Plaza Geneva by IHG,Genf,€ 166,"8,6",1.754 Bewertungen
+Residence Inn by Marriott Geneva City Nations,"Petit-Saconnex / Servette, Genf",€ 151,"8,7",257 Bewertungen
+Hotel Astoria,Olten,€ 225,"8,0",2.105 Bewertungen
+CASPAR Swiss Quality Hotel,Muri,€ 308,"9,0",394 Bewertungen
+ibis Fribourg,Freiburg im Üechtland,€ 157,"7,5",1.496 Bewertungen
+Design Hotel f6,"Paquis, Genf",€ 184,"8,2",2.537 Bewertungen
+Hotel Restaurant Seegarten,Arbon,€ 213,"8,6",583 Bewertungen
+Hotel by Hyve Basel,Basel,€ 144,"8,6",1.821 Bewertungen
+Mercure Zürich City,"Altstetten, Zürich",€ 180,"7,8",4.148 Bewertungen
+Hotel Stocken,St. Gallen,€ 277,"7,1",171 Bewertungen
+THE FLAG Zürich,"Altstetten, Zürich",€ 204,"8,5",3.928 Bewertungen
+CityChalet,"Innenstadt, Interlaken",€ 1.452,"9,0",410 Bewertungen
+Boutique-Hotel Antica Posta,Ascona,€ 213,"8,9",625 Bewertungen
+Hotel Stadthaus,Burgdorf,€ 287,"9,1",321 Bewertungen
+Locarno Youth Hostel,Locarno,€ 141,"8,2",532 Bewertungen
+Boutique & Design Hotel Volkshaus Basel,"Altstadt Kleinbasel, Basel",€ 261,"8,9",1.776 Bewertungen
+Studio beim Rhein - Ziegelhütte,Flaach,€ 137,"8,5",73 Bewertungen
+easyHotel Zürich Main Station,Zürich,€ 202,"7,4",610 Bewertungen
+Trip Inn Zurich Hotel,"Aussersihl, Zürich",€ 257,"7,4",3.977 Bewertungen
+Motel-Résidence Ô Pied à Terre,Montilliez,€ 144,"9,0",107 Bewertungen
+Appart'City Collection Genève Aéroport - Vernier,Genf,€ 128,"8,9",2.957 Bewertungen
+Mercure Biel,Biel/Bienne,€ 157,"8,5",1.093 Bewertungen
+Gabi's Wolfühloase,Balerna,€ 197,"9,1",102 Bewertungen
+Hotel Märthof Basel,"Altstadt Grossbasel, Basel",€ 337,"9,0",2.100 Bewertungen
+Hotel Geranio Au Lac,"Muralto, Locarno",€ 278,"8,7",1.160 Bewertungen
+Central Plaza,"Stadtzentrum, Zürich",€ 321,"8,2",3.043 Bewertungen
+Hôtel du Port,Villeneuve,€ 251,"8,4",502 Bewertungen
+Hotel Wettstein,"Basel Stadtzentrum, Basel",€ 177,"8,7",2.126 Bewertungen
+"Hotel Altein Arosa, a Faern Collection Resort",Arosa,€ 288,"8,4",1.070 Bewertungen
+Weisses Rössli,Leukerbad,€ 124,"7,4",670 Bewertungen
+Hotel Locanda Castagnola,Lugano,€ 206,"8,6",223 Bewertungen
+Anstatthotel Schafisheim - self-check-in,Schafisheim,€ 136,"8,2",1.050 Bewertungen
+The Home Hotel Zürich - a member of DESIGN HOTELS,"Wiedikon, Zürich",€ 330,"8,7",444 Bewertungen
+Hotel Krone by b-smart,Bad Ragaz,€ 179,"7,6",545 Bewertungen
+Chesa Languard,St. Moritz,€ 256,"8,7",1.985 Bewertungen
+B&B HOTEL Nyon,Nyon,€ 127,"8,4",2.250 Bewertungen
+Hotel Rothaus Luzern & Peruvian Culinary Art,Luzern,€ 247,"7,0",1.663 Bewertungen
+Alphorn Chalet Habkern,Habkern,€ 372,"9,3",3 Bewertungen
+Café du Soleil,Saignelégier,€ 114,"8,1",74 Bewertungen
+FIVE Zurich - Luxury City Resort,"Wiedikon, Zürich",€ 464,"8,5",4.206 Bewertungen
+Hotel du Léman - Jongny,Vevey,€ 270,"8,6",802 Bewertungen
+Chalet Santa Maria,Kandersteg,€ 434,"9,8",43 Bewertungen
+Hüttenhotel Husky Lodge,Muotathal,€ 327,"9,0",200 Bewertungen
+Hotel Oberland,Lauterbrunnen,€ 379,"8,2",1.898 Bewertungen
+BEAUSiTE Zermatt,Zermatt,€ 867,"9,5",1.132 Bewertungen
+b-smart hotel Schönenwerd,Aarau,€ 193,"7,9",670 Bewertungen
+Mountain view apartments in Cressier near Murten,Cressier,€ 163,"7,8",88 Bewertungen
+Lifestyle & Spa Hotel Grächerhof,Grächen,€ 281,"8,8",347 Bewertungen
+Luxury Penthouse Apartment,"Aussersihl, Zürich",€ 741,"8,9",127 Bewertungen
+Hotel Zurigo Downtown,"Stadtzentrum von Lugano, Lugano",€ 195,"7,9",950 Bewertungen
+Landgasthof Bären,Madiswil,€ 193,"8,3",128 Bewertungen
+ibis budget Hotel Luzern City,Luzern,€ 283,"7,3",8.711 Bewertungen
+Gast - und Kulturhaus Der Teufelhof Basel,"Altstadt Grossbasel, Basel",€ 271,"8,9",1.843 Bewertungen
+Merian am Rhein,"Altstadt Kleinbasel, Basel",€ 200,"7,2",3.574 Bewertungen
+Hotel Villa Post,Vulpera,€ 289,"9,1",279 Bewertungen
+Hotel Staubbach,Lauterbrunnen,€ 459,"9,3",1.859 Bewertungen
+Hotel City Zürich Design & Lifestyle,"Stadtzentrum, Zürich",€ 408,"8,6",2.548 Bewertungen
+Holiday House Lärchenheim,Saas-Balen,€ 100,"7,8",257 Bewertungen
+Hotel Il Castagno,Mugena,€ 185,"8,6",420 Bewertungen
+GOOD NIGHT Apartments,"Binningen, Basel",€ 214,"8,2",646 Bewertungen
+Hotel Le Grand Chalet Gstaad,Gstaad,€ 863,"9,5",325 Bewertungen
+Steigenberger Icon Grandhotel Belvédère,Davos,€ 268,"8,5",551 Bewertungen
+Swiss Historic Hotel Masson,Montreux,€ 291,"8,4",884 Bewertungen
+Hotel D - Basel - Fully Renovated 2025,"Altstadt Grossbasel, Basel",€ 182,"8,5",157 Bewertungen
+BLOOM Boutique Hotel & Lounge Basel,"Clara, Basel",€ 165,"8,6",1.532 Bewertungen
+Charming Vinyard House - Lake Geneva,Mont-sur-Rolle,€ 236,"8,4",80 Bewertungen
+"Relax sul Lago Maggiore, pool&sauna",Muralto,€ 345,"8,9",33 Bewertungen
+Hotel Adler Zürich,"Stadtzentrum, Zürich",€ 380,"8,7",1.868 Bewertungen
+SeePark Hotel Murten,Murten,€ 241,"6,9",544 Bewertungen
+Hotel Lavaux,"Cully, Cully VD",€ 206,"8,2",2.130 Bewertungen
+B&B HOTEL Lully 3 Lakes,Estavayer-le-Lac,€ 102,"8,3",1.396 Bewertungen
+flexymotel Schönenwerd,Schönenwerd,€ 161,"7,5",230 Bewertungen
+Hôtel Terminus,Orsières,€ 186,"8,2",829 Bewertungen
+Sorell Hotel Rütli,"Stadtzentrum, Zürich",€ 321,"8,2",2.515 Bewertungen
+Hotel Chesa Rosatsch - Home of Food,Celerina/Schlarigna,€ 583,"8,7",413 Bewertungen
+Hotel Des Alpes - Restaurant & Pizzeria,Airolo,€ 125,"7,6",1.084 Bewertungen
+Best Western Plus Hotel Zürcherhof,"Stadtzentrum, Zürich",€ 330,"8,5",2.777 Bewertungen
+Le chemin des étoiles,Evolène,€ 499,,
+Hotel San Bernardo,Contra,€ 327,"8,9",221 Bewertungen
+Hôtel de la Poste Martigny - City Center,Martigny-Ville,€ 99,"6,6",1.288 Bewertungen
+Hotel Post Cunter Biancardi,Savognin,€ 245,"7,7",402 Bewertungen
+Basel Marriott Hotel,"Clara, Basel",€ 163,"8,5",673 Bewertungen
+Wine & Art Relais Vallombrosa,Castelrotto,€ 209,"9,3",105 Bewertungen
+Hotel Admiral,"Paquis, Genf",€ 153,"7,2",2.073 Bewertungen
+Family suite with garden and amaizing view to Lugano,Cademario,€ 297,"6,9",91 Bewertungen
+Hotel Alpina,Mürren,€ 377,"9,0",1.278 Bewertungen
+Tariche Centre de Vacances,Saint-Ursanne,€ 167,"8,4",92 Bewertungen
+Gantrisch Lodge Ottenleuebad,Guggisberg,€ 137,"8,7",67 Bewertungen
+Nomad Design & Lifestyle Hotel,"Vorstädte, Basel",€ 187,"9,1",1.529 Bewertungen
+Hotel Terminus,Samedan,€ 300,"8,0",199 Bewertungen
+Bamboohouse Motel Riazzino,Riazzino,€ 174,"8,3",229 Bewertungen
+Grand Hotel Villa Castagnola,Lugano,€ 668,"9,3",854 Bewertungen
+Opera Hotel Zürich,"Seefeld, Zürich",€ 292,"8,1",2.567 Bewertungen
+Le Paysan Horloger,Les Bois,€ 193,"9,1",92 Bewertungen
+Hotel du Faucon,Freiburg im Üechtland,€ 146,"8,0",1.491 Bewertungen
+Defanti,Lavorgo,€ 154,"8,3",840 Bewertungen
+Bernina Bed and Breakfast,Davos,€ 213,"8,1",722 Bewertungen
+Hôtel Métropole Genève,"Innenstadt, Genf",€ 574,"7,9",520 Bewertungen
+Résidence Castel Club Leysin Parc,Leysin,€ 208,"8,5",384 Bewertungen
+Motel des Sports Martigny,Martigny-Ville,€ 139,"6,7",1.222 Bewertungen
+Cuore di Relais e Châteaux 5 STELLE in Bellinzona CITY OF CASTLES -By EasyLife Swiss,Bellinzona,€ 594,"8,7",106 Bewertungen
+Rent a Home Delsbergerallee - Self Check-In,Basel,€ 160,"7,0",1.230 Bewertungen
+Gasthaus 210,"Langstrasse, Zürich",€ 174,"7,1",2.569 Bewertungen
+Hotel Astoria,Ulrichen,€ 205,"8,5",340 Bewertungen
+Boutique Hotel Seegarten,"Seefeld, Zürich",€ 324,"8,1",1.325 Bewertungen
+ibis budget Basel City,Basel,€ 106,"7,4",9.571 Bewertungen
+Hotel Höri Inn,Höri,€ 146,"7,8",1.426 Bewertungen
+Swiss Holiday Park Resort,Morschach,€ 216,"8,4",1.984 Bewertungen
+Hotel Boldern,Männedorf,€ 247,"8,2",412 Bewertungen
+Walliserhof Grand-Hotel & Spa Relais & Châteaux,Saas-Fee,€ 471,"9,0",256 Bewertungen
+Hotel Resslirytti,"Basel Stadtzentrum, Basel",€ 189,"8,4",2.195 Bewertungen
+Campanile Martigny,Martigny-Ville,€ 215,"7,8",1.654 Bewertungen
+Hôtel Ecureuil Villars,Villars-sur-Ollon,€ 295,"8,2",567 Bewertungen
+Hotel Restaurant GABRIEL,Scuol,€ 239,"8,3",306 Bewertungen
+Hotel Excelsior,Locarno,€ 205,"8,1",337 Bewertungen
+Peanut Medieval Lodge,Saint-Ursanne,€ 249,"7,8",511 Bewertungen
+Silvretta Parkhotel,Klosters-Serneus,€ 308,"8,3",338 Bewertungen
+Hotel one66 (free parking garage),St. Gallen,€ 165,"8,9",1.385 Bewertungen
+Falken am Rotsee,"Ebikon, Luzern",€ 215,"6,9",1.162 Bewertungen
+Hotel St.Gotthard,"Stadtzentrum, Zürich",€ 494,"8,3",3.480 Bewertungen
+GUESTHOUSE ZURZACH - Self Check-in,Bad Zurzach,€ 129,"7,4",412 Bewertungen
+Hôtel Longemalle,"Innenstadt, Genf",€ 480,"8,5",1.370 Bewertungen
+"Radisson Blu Hotel, St. Gallen",St. Gallen,€ 239,"8,2",1.431 Bewertungen
+Hotel Goldener Stern - contactless check-in,"Altstadt, Luzern",€ 298,"8,0",753 Bewertungen
+Hotel de la Gare,Sugiez,€ 189,"7,8",366 Bewertungen
+Motel Rheinfels Park,Stein,€ 143,"7,8",366 Bewertungen
+Hospezi Santa Maria,Platta,€ 174,"8,1",24 Bewertungen
+Lausanne Palace,"Stadtzentrum von Lausanne, Lausanne",€ 364,"9,2",1.419 Bewertungen
+Hotel ZERMAMA Zermatt,Zermatt,€ 985,"9,0",778 Bewertungen
+Eastwest Hôtel by Malone,"Paquis, Genf",€ 323,"8,6",1.043 Bewertungen
+Hotel Lenzerhorn,Lenzerheide/Lai,€ 305,"8,5",400 Bewertungen
+Boutique Hotel Seefeld,Zürich,€ 389,"8,7",2.046 Bewertungen
+Hotel Schweizerhof Basel,Basel,€ 214,"8,8",1.444 Bewertungen
+The Passage - Urban Retreat,"Vorstädte, Basel",€ 223,"8,9",1.622 Bewertungen
+9Hotel Paquis,"Paquis, Genf",€ 221,"8,0",2.473 Bewertungen
+Victoria Jungfrau Grand Hotel & Spa,"Innenstadt, Interlaken",€ 1.452,"9,3",742 Bewertungen
+Hotel Limmatblick,"Stadtzentrum, Zürich",€ 276,"7,5",2.927 Bewertungen
+Hotel D Geneva,"Paquis, Genf",€ 222,"8,6",1.521 Bewertungen
+Grand Hôtel Les Endroits,La Chaux-de-Fonds,€ 369,"8,5",255 Bewertungen
+Hotel Schönegg,Wengen,€ 477,"9,0",381 Bewertungen
+Hotel Euler Basel,Basel,€ 173,"8,2",2.176 Bewertungen
+Maloja Palace Suites CO2-Neutral,Maloja,€ 231,"8,1",510 Bewertungen
+ibis Delémont,Delémont,€ 134,"8,3",997 Bewertungen
+Davos Youth Hostel,Davos,€ 152,"8,3",526 Bewertungen
+B&B Le Phare,Bouveret,€ 169,"8,0",273 Bewertungen
+Hotel Rhoneblick,Guttet-Feschel,€ 166,"8,8",115 Bewertungen
+Hotel Corona,Vicosoprano,€ 259,"8,7",36 Bewertungen
+Hotel Victoria,Basel,€ 173,"8,7",1.826 Bewertungen
+Hôtel Des Arts,Neuenburg,€ 194,"8,5",1.525 Bewertungen
+Bellevue Hotel & Apartments,Lenk im Simmental,€ 204,"7,9",107 Bewertungen
+Hôtel Prealpina,Chexbres,€ 186,"8,1",2.481 Bewertungen
+Casa Angiolina - Holidays,Morcote,€ 135,"8,6",256 Bewertungen
+Hotel Spatz,Luzern,€ 275,"7,8",1.647 Bewertungen
+Bottega del Vino Guesthouse,Locarno,€ 141,"8,0",167 Bewertungen
+Edelweiss Manotel,"Paquis, Genf",€ 279,"8,4",1.795 Bewertungen
+Comano Lugano Ticino - B&B Walterina,Comano,€ 223,"9,6",156 Bewertungen
+The Dolder Grand - City and Spa Resort Zurich,"Zürichberg, Zürich",€ 1.067,"9,0",625 Bewertungen
+Baxter Hotel,Visp,€ 252,"8,9",1.745 Bewertungen
+GAIA Hotel Basel - the sustainable 4 star hotel,Basel,€ 228,"8,9",1.034 Bewertungen
+Downtown Family&Friends,"Innenstadt, Interlaken",€ 278,"7,9",575 Bewertungen
+Hotel Adula,Flims,€ 360,"8,5",429 Bewertungen
+Manoir de la Côte-Dieu,Pruntrut,€ 210,"9,3",139 Bewertungen
+ICON H - Luxury Suites & Apartments,Lugano,€ 303,"8,3",513 Bewertungen
+Sporthotel Wildstrubel,Lenk im Simmental,€ 247,"7,8",422 Bewertungen
+Hotel Bodensee-Arena,Kreuzlingen,€ 192,"8,1",914 Bewertungen
+"Grand Hotel Belvedere, a Beaumier Hotel",Wengen,€ 714,"9,5",62 Bewertungen
+Spalenbrunnen Hotel & Restaurant Basel City Center,"Vorstädte, Basel",€ 144,"7,1",1.327 Bewertungen
+CASA BELGERI - Bed & Breakfast,Dongio,€ 168,"8,9",46 Bewertungen
+Albergo Ristorante Stazione Balerna,Balerna,€ 143,"8,7",902 Bewertungen
+Bellevue-Terminus - Urban Lifestyle Hotel,Engelberg,€ 363,"8,9",423 Bewertungen
+Hotel Rössli,"Stadtzentrum, Zürich",€ 313,"8,4",1.433 Bewertungen
+Backpackers Luzern,Luzern,€ 140,"8,9",2.811 Bewertungen
+Pullman Basel Europe,"Clara, Basel",€ 178,"8,7",1.804 Bewertungen
+Valbella-Lenzerheide Youth Hostel,Lenzerheide/Lai,€ 163,"8,5",259 Bewertungen
+ROESLI Guest House,"Altstadt, Luzern",€ 249,"7,8",523 Bewertungen
+The Nucleo House Experience,Maggia TI,€ 212,,
+Haus Atlantic Leukerbad,Leukerbad,€ 138,"8,8",1.424 Bewertungen
+VitalBoutique Hotel Zurzacherhof,Bad Zurzach,€ 360,"8,5",756 Bewertungen
+HOTEL de la Truite & SPA Le petit Nautilus,Le Pont,€ 221,"7,6",804 Bewertungen
+Boutique City Hotel Gallo,St. Gallen,€ 168,"8,8",1.239 Bewertungen
+Hotel Victoria,Brig,€ 157,"8,0",1.082 Bewertungen
+Hôtel de la Cigogne,"Innenstadt, Genf",€ 499,"8,6",1.179 Bewertungen
+Hotel Rütli am Bahnhof Rüti ZH,Rüti,€ 198,"8,0",54 Bewertungen
+Alpina Boutique Hotel Interlaken - Ringgenberg - Adults only !,Ringgenberg,€ 367,"9,1",1.027 Bewertungen
+Hotel Heilquelle-Leukerbad-Therme,Leukerbad,€ 238,"8,6",268 Bewertungen
+Bürgenstock Hotel & Alpine Spa,Bürgenstock,€ 1.344,"9,5",1.050 Bewertungen
+Camping Piccolo Paradiso,Avegno,€ 207,"8,9",352 Bewertungen
+Casa Sheila,Quartino,€ 262,"9,3",65 Bewertungen
+Hotel Fonte dei Fiori,Caslano,€ 186,"7,8",376 Bewertungen
+appartement dans le centre thermal les Sources Ovronnaz,Ovronnaz,€ 322,"8,5",104 Bewertungen
+Albergo Elvezia,Rivera,€ 186,"7,7",402 Bewertungen
+Central Hotel Post,Chur,€ 205,"8,5",3.391 Bewertungen
+Hotel Restaurant Pizzeria Rotes Haus,Landschlacht Gemeinde Münsterlingen,€ 134,"7,1",369 Bewertungen
+Hirschen B&B,Maienfeld,€ 127,"8,0",1.346 Bewertungen
+Townhouse Boutique Hotel,"Stadtzentrum, Zürich",€ 317,"8,3",2.003 Bewertungen
+Hotel International & Terminus,"Paquis, Genf",€ 168,"7,9",1.998 Bewertungen
+Lac Hotel,Melide,€ 263,"8,9",1.321 Bewertungen
+ART HOUSE Basel - Member of Design Hotels,"Vorstädte, Basel",€ 252,"8,8",1.514 Bewertungen
+Hotel Victoria,"Stadtzentrum von Lausanne, Lausanne",€ 221,"8,3",1.734 Bewertungen
+Hotel Gamper,Bellinzona,€ 146,"7,1",1.565 Bewertungen
+"Studio Bellevue 1, ski lift 350m",Zinal,€ 155,"8,8",32 Bewertungen
+Hotel Europe,"Seefeld, Zürich",€ 544,"8,6",1.486 Bewertungen
+Hôtel Restaurant Port-Conty,Saint Aubin Sauges,€ 230,"8,5",1.020 Bewertungen
+Hotel Montbrillant,"Saint-Gervais / des Grottes, Genf",€ 154,"7,7",2.441 Bewertungen
+Bern Backpackers Hotel Glocke,"Altstadt von Bern, Bern",€ 136,"8,5",3.232 Bewertungen
+Hotel Central Résidence,Leysin,€ 264,"7,7",1.510 Bewertungen
+Hotel Des Alpes,Kandersteg,€ 369,"8,2",876 Bewertungen
+Starling Hotel Lausanne,Lausanne,€ 166,"8,4",761 Bewertungen
+Sky Design Motel,Kriessern,€ 186,"9,0",327 Bewertungen
+Swiss Alpine Hotel Allalin,Zermatt,€ 545,"9,5",469 Bewertungen
+Hôtel Cailler & Bains de la Gruyère,Charmey,€ 409,"8,9",1.126 Bewertungen
+Hotel Gibswilerstube,Gibswil,€ 242,"9,1",188 Bewertungen
+Hotel La Campagnola - Green Energy Resort,San Nazzaro,€ 342,"8,4",107 Bewertungen
+Alpenclub,Engelberg,€ 361,"8,6",392 Bewertungen
+B & B Brienz,Brienz,€ 209,"9,0",1.318 Bewertungen
+Los Lorentes Apartments Bern City,"Mattenhof-Weissenbühl, Bern",€ 157,"8,7",3.560 Bewertungen
+La Petite Auberge,Versegeres ,€ 149,"8,3",63 Bewertungen
+Holiday Inn Express Luzern-Neuenkirch by IHG,Rothenburg LU,€ 198,"7,9",2.126 Bewertungen
+Hotel des Alpes Bulle center,Bulle,€ 106,"7,4",1.912 Bewertungen
+Valbella Resort,Lenzerheide/Lai,€ 433,"9,1",338 Bewertungen
+Chalet Suisse Bed and Breakfast,Morgins,€ 140,"8,4",272 Bewertungen
+"Kameha Grand Zurich, Autograph Collection",Glattbrugg,€ 216,"8,1",687 Bewertungen
+Le Rive Sud,Estavayer-le-Lac,€ 226,"8,6",601 Bewertungen
+BnB Claudy et Elizabeth Michellod-Dutheil,Le Châble,€ 114,"8,5",305 Bewertungen
+B&B Guest House Du Lac,Montreux,€ 184,"7,7",2.663 Bewertungen
+Hotel Schweizerhof Zürich,"Stadtzentrum, Zürich",€ 786,"8,9",1.517 Bewertungen
+Hotel Seeblick,Sufers,€ 140,"8,6",865 Bewertungen
+Hotel Restaurant Hammer,Eigenthal,€ 215,"8,8",337 Bewertungen
+Altstadt Hotel,"Stadtzentrum, Zürich",€ 379,"8,4",1.840 Bewertungen
+Landgasthaus Bären,Grub,€ 178,"8,9",114 Bewertungen
+Hostellerie du XVI Siècle,Nyon,€ 188,"8,4",924 Bewertungen
+Delémont Youth Hostel,Delémont,€ 132,"8,2",152 Bewertungen
+ibis Baden Neuenhof,Baden,€ 134,"8,4",1.749 Bewertungen
+Chez Dodo 2534 Orvin Le Foncet,Evilard,€ 207,"8,9",286 Bewertungen
+"Magic CHALET near COMO lake, private parking, total privacy I Villa dei Leoni",Morbio Inferiore,€ 169,"8,4",235 Bewertungen
+BASE Cafe,Lauterbrunnen,€ 159,"6,6",1.457 Bewertungen
+Hotel Garni Villa del Sole,Ponte Tresa,€ 215,"9,1",115 Bewertungen
+Hôtel de charme la Poste,Anzère,€ 172,"8,6",266 Bewertungen
+AlpenGold Hotel Davos,Davos,€ 290,"8,7",832 Bewertungen
+Boutique Hotel Panorama,Crans-Montana,€ 334,"8,7",468 Bewertungen
+"SKY Rooms, Mountainous View",Saas,€ 159,"7,7",382 Bewertungen
+Hotel Restaurant Jungfrau,Lauterbrunnen,€ 213,"6,5",670 Bewertungen
+LMS - La Maison Suisse - Döttingen,Döttingen,€ 172,"8,3",1.222 Bewertungen
+Chambre d hôtes Le Petit Bonheur,Colombier,€ 177,"8,8",107 Bewertungen
+Hotel La Perla,Ascona,€ 243,"8,0",752 Bewertungen
+Airport Hotel Basel - Convenient & Friendly,"St. Johann, Basel",€ 165,"8,6",1.643 Bewertungen
+Hotel Arte Spreitenbach,Spreitenbach,€ 122,"7,6",1.476 Bewertungen
+Boutique Hotel Seidenhof,"Stadtzentrum, Zürich",€ 545,"9,1",2.315 Bewertungen
+ibis budget Genève Aéroport,Genf,€ 108,"7,8",7.721 Bewertungen
+Fred Guest House Zürich Hauptbahnhof,Zürich,€ 269,"8,4",1.260 Bewertungen
+SET Hotel.Residence by Teufelhof Basel,"Vorstädte, Basel",€ 238,"8,9",1.118 Bewertungen
+Tailormade Hotel STANS SÜD,Stans,€ 190,"8,1",1.216 Bewertungen
+Becozy Self Check-in Pop-Up Hotel Basel,"Clara, Basel",€ 110,"6,9",456 Bewertungen
+V.I.P Appartement,Böttstein,€ 133,"9,1",91 Bewertungen
+ibis Lausanne Centre,"Stadtzentrum von Lausanne, Lausanne",€ 134,"8,2",5.790 Bewertungen
+Mövenpick Hotel Egerkingen,Egerkingen,€ 132,"7,9",1.619 Bewertungen
+Hôtel - Restaurant Le Manoir,Vaulruz,€ 161,"8,2",550 Bewertungen
+Hotel Limmathof,"Stadtzentrum, Zürich",€ 258,"8,2",1.888 Bewertungen
+SWISS HOTEL LA COURONNE,Avenches,€ 213,"7,9",546 Bewertungen
+Monte Rosa Boutique Hotel,"Stadtzentrum, Zermatt",€ 1.028,"9,3",235 Bewertungen
+Design Hotel Plattenhof,"Zürichberg, Zürich",€ 281,"8,1",1.163 Bewertungen
+Hôtel de la Rose,Freiburg im Üechtland,€ 162,"7,7",1.775 Bewertungen
+Hôtel Pax,"Eaux-Vives, Genf",€ 188,"8,2",1.149 Bewertungen
+Hotel Rheingerbe,Stein am Rhein,€ 234,"8,4",494 Bewertungen
+Hôtel du Marché,Lausanne,€ 121,"7,4",4.117 Bewertungen
+Hotel&Hostel Montarina,Lugano,€ 149,"8,3",3.348 Bewertungen
+Seehotel Bären,Brienz,€ 189,"7,4",1.566 Bewertungen
+Loft Bottighofen,Bottighofen,€ 208,,
+Wellnesshotel Engadin,Samnaun,€ 152,"9,0",585 Bewertungen
+Hôtel Alpina - Swiss Ski & Bike Lodge Grimentz,Grimentz,€ 192,"8,7",625 Bewertungen
+Hotel Piz St. Moritz,St. Moritz,€ 474,"7,6",2.802 Bewertungen
+Arena Lodge,Flims,€ 161,"8,2",1.050 Bewertungen
+Le Loft de la Promenade,La Chaux-de-Fonds,€ 115,"9,4",13 Bewertungen
+"Historische Maisonettewohnung bis 9 Gäste, Magic Pass ab Mai25",Naters,€ 283,"9,3",22 Bewertungen
+Hotel Adler Garni,Zernez,€ 186,"8,8",622 Bewertungen
+Roggia Apartments by Quokka 360 - central flats with parking space,Lugano,€ 316,"8,5",291 Bewertungen
+Boutique Hotel Sunstar Brissago am Lago Maggiore,Brissago,€ 404,"9,1",214 Bewertungen
+Casa Sonora,Orselina,€ 331,"9,6",15 Bewertungen
+Crystal Hotel superior,St. Moritz,€ 555,"8,9",737 Bewertungen
+Hôtel Arnold self check-in,Neuenburg,€ 149,"8,6",47 Bewertungen
+ibis budget Bern Expo,Bern,€ 123,"7,5",3.911 Bewertungen
+"Dihei - Hotel, Lounge, Bar",Dübendorf,€ 163,"8,6",1.642 Bewertungen
+Hotel dell'Angelo,Locarno,€ 180,"7,7",3.354 Bewertungen
+Anstatthotel Goldau - self-check-in,Goldau,€ 201,"8,1",985 Bewertungen
+Geräumige und stylische Wohnung mit Weitsicht,Huttwil,€ 252,"8,8",26 Bewertungen
+Schlosshotel - Self Check-In Hotel,Brig,€ 178,"8,0",2.244 Bewertungen
+"BnB ""Les Coquelicots""",Mies,€ 200,"8,5",45 Bewertungen
+Unione,Gordevio,€ 146,"8,7",117 Bewertungen
+ibis 3 Lacs Neuchâtel,Thielle-Wavre,€ 152,"7,7",984 Bewertungen
+Hotel Eastside (free parking garage),St. Gallen,€ 180,"8,7",1.120 Bewertungen
+Park Hyatt Zurich – City Center Luxury,"Enge, Zürich",€ 952,"9,1",508 Bewertungen
+Appartement SEPHORA accès terrasse commune,La Neuveville,€ 245,"8,4",57 Bewertungen
+Hotel Biobistro Semadeni,Poschiavo,€ 301,"8,8",197 Bewertungen
+Plaza Hotel Winterthur,Winterthur,€ 167,"8,0",1.081 Bewertungen
+Hotel Rheinfels,Stein am Rhein,€ 211,"8,7",653 Bewertungen
+Château de Bossey,Bogis-Bossey,€ 135,"8,3",575 Bewertungen
+Zum Schwarzen Löwen,Altdorf,€ 164,"7,8",722 Bewertungen
+Aarauerhof - Self Check-in,Aarau,€ 195,"6,4",1.766 Bewertungen
+B&B Whitianga,Vinelz,€ 193,"9,1",22 Bewertungen
+Catrina Lodge,Disentis,€ 121,"8,3",936 Bewertungen
+ibis budget Geneve Palexpo Aeroport,Genf,€ 91,"8,3",7.037 Bewertungen
+Steinenschanze Charming City & Garden Hotel,"Vorstädte, Basel",€ 169,"9,0",1.753 Bewertungen
+Au Vieux Champex,Champex,€ 348,"8,6",556 Bewertungen
+Hotel Surselva,Chur,€ 197,"7,7",382 Bewertungen
+ibis budget Zurich City West,"Gewerbeschule, Zürich",€ 164,"7,2",6.223 Bewertungen
+Seehotel Bönigen,Bönigen,€ 275,"8,3",865 Bewertungen
+Hotel & Restaurant Forni,Airolo,€ 204,"8,1",909 Bewertungen
+Vevey Hotel & Guesthouse,Vevey,€ 164,"7,7",1.140 Bewertungen
+Hotel Beaulac,Neuenburg,€ 331,"8,7",2.744 Bewertungen
+Tailormade Hotel BAB Bachenbülach,Bachenbülach,€ 157,"8,9",328 Bewertungen
+Hirschen Backpacker-Hotel & Pub,Schwyz,€ 138,"8,3",624 Bewertungen
+Lumpaz,Sta Maria Val Müstair,€ 99,"9,3",196 Bewertungen
+Sedartis Swiss Quality Hotel,Thalwil,€ 350,"8,8",1.049 Bewertungen
+Hotel Drei Könige,Chur,€ 145,"7,9",2.939 Bewertungen
+B&B HOTEL Lausanne Crissier,"Crissier, Lausanne",€ 149,"8,4",2.789 Bewertungen
+Hotel Parc & Lac,"Stadtzentrum von Montreux, Montreux",€ 175,"7,5",2.911 Bewertungen
+Historic Hotel du Pillon,Les Diablerets,€ 268,"9,7",371 Bewertungen
+Auberge des Fées - studio,Buttes,€ 164,,
+Hotel Amaris,Olten,€ 143,"8,1",1.535 Bewertungen
+Fred Hotel Zürich Hauptbahnhof,Zürich,€ 360,"8,6",1.118 Bewertungen
+Moxy Sion,Sion,€ 204,"8,2",3.140 Bewertungen
+Swiss Hostel Lago Lodge,Biel/Bienne,€ 115,"7,9",705 Bewertungen
+"Cosy Studio for 5 near ski lift, Les Gentianes",Les Collons,€ 225,"7,2",42 Bewertungen
+Sheraton Zürich Hotel,"Gewerbeschule, Zürich",€ 306,"7,6",912 Bewertungen
+Cèc & Evita,Roveredo,€ 180,"9,4",66 Bewertungen
+Hotel Stump's Alpenrose,Wildhaus,€ 272,"8,7",201 Bewertungen
+Magic Garden Apartment,Brissago,€ 162,,
+Sunstar Hotel Arosa,Arosa,€ 289,"8,5",454 Bewertungen
+Zunfthaus zu Wirthen,Solothurn,€ 232,"8,3",11 Bewertungen
+Hotel Restaurant du Crêt,Bourg-Saint-Pierre,€ 100,"7,3",258 Bewertungen
+b-smart motel Basel,Basel,€ 170,"7,4",2.063 Bewertungen
+Leonardo Hotel Zurich Airport,"Kloten, Kloten",€ 154,"8,5",8.771 Bewertungen
+AMERON Zürich Bellerive au Lac,"Seefeld, Zürich",€ 437,"8,8",1.219 Bewertungen
+Schloss Burgdorf Youth Hostel,Burgdorf,€ 238,"8,9",388 Bewertungen
+Hotel & Bildungshaus St. Jodern,Visp,€ 163,"8,2",1.360 Bewertungen
+Hotel Metropol Basel,Basel,€ 164,"8,0",1.048 Bewertungen
+VK - H - Zürich Airport - Luxury - Homestay - Haldenstrasse - Kloten,"Kloten, Kloten",€ 169,"7,0",162 Bewertungen
+Albergo Ristorante La Palma,Bissone,€ 202,"8,1",707 Bewertungen
+Sorell Hotel Rex,"Unterstrass, Zürich",€ 286,"8,0",2.460 Bewertungen
+Hotel Fravi,Andeer,€ 354,"8,8",356 Bewertungen
+IIP Apartments - Self Check-In,Spreitenbach,€ 148,"7,1",627 Bewertungen
+Hôtel Rallye & Entrées aux Bains de la Gruyère,Bulle,€ 175,"8,5",1.021 Bewertungen
+Swiss Star Home,Effretikon,€ 130,"6,4",924 Bewertungen
+Ibis budget Lausanne-Bussigny,"Bussigny-pres-Lausanne, Lausanne",€ 103,"7,4",2.303 Bewertungen
+Smart-Hotel,Samnaun,€ 157,"8,8",443 Bewertungen
+Sérénité et nature dans une ferme équestre - studio familial,Massonnens,€ 277,"9,1",33 Bewertungen
+Hotel Gerig,Wassen,€ 172,"8,4",915 Bewertungen
+Chalet Hotel Adler AG,Kandersteg,€ 347,"8,5",1.021 Bewertungen
+Chalet Silvretta Hotel & Spa,Samnaun,€ 198,"8,8",278 Bewertungen
+Amanthos Living Solothurn,Grenchen,€ 103,"7,2",23 Bewertungen
+Hotel La Tour d'Aï,Leysin,€ 182,"8,2",107 Bewertungen
+Hotel Serpiano,Serpiano,€ 191,"7,7",368 Bewertungen
+Boutique Hotel Beau-Séjour & Spa Superior,Champéry,€ 306,"9,1",266 Bewertungen
+Bed and Breakfast Lek & Jo,Suchy,€ 164,"9,1",89 Bewertungen
+Mercure Lenzburg Krone,Lenzburg,€ 206,"8,4",747 Bewertungen
+Hotel City Inn Basel,Basel,€ 144,"7,6",1.980 Bewertungen
+ibis Bulle - La Gruyère Swiss Bike Hotel,Bulle,€ 130,"8,0",1.343 Bewertungen
+Hotel Alpha,Freiburg im Üechtland,€ 151,"7,8",1.053 Bewertungen
+Bed&Breakfast La Sctalèta,Mesocco,€ 140,10,1 Bewertung
+Le Grand Bellevue,Gstaad,€ 1.014,"9,5",177 Bewertungen
+Gite du pèlerin-Chalet de montagne,Orsières,€ 279,"9,3",31 Bewertungen
+ibis Geneve Centre Lac,"Paquis, Genf",€ 157,"8,1",5.753 Bewertungen
+Hotel Sursee,Sursee,€ 181,"8,2",1.783 Bewertungen
+City-Hotel Ochsen,Zug,€ 377,"8,7",327 Bewertungen
+Hotel Berchtold,Burgdorf,€ 200,"8,6",1.076 Bewertungen
+Hotel Athmos,La Chaux-de-Fonds,€ 166,"7,9",601 Bewertungen
+Grand Hotel Beau Rivage Interlaken,"Innenstadt, Interlaken",€ 734,"8,3",178 Bewertungen
+Casa Scerina,Sementina,€ 295,"7,1",92 Bewertungen
+Relax-Lugano Lake,Bissone,€ 436,"8,1",66 Bewertungen
+Bed & Breakfast Region Murtensee,Münchenwiler,€ 225,"9,4",112 Bewertungen
+Luxuse Ferienwohnung Flüe 11,Leukerbad,€ 256,"9,1",7 Bewertungen
+Touring au Lac,Neuenburg,€ 213,"7,9",892 Bewertungen
+Hostellerie d'Orzival,Vercorin,€ 254,"8,3",325 Bewertungen
+Anstatthotel Horw - self-check-in,"Horw, Luzern",€ 201,"7,8",4.399 Bewertungen
+Hotel Bellevue,San Bernardino,€ 205,"8,8",686 Bewertungen
+Dazio Grande B&B,Rodi,€ 142,"8,3",414 Bewertungen
+Amanthos Living Zürich Airport,Glattbrugg,€ 182,"8,4",181 Bewertungen
+Hotel Conti Dietikon,Dietikon,€ 137,"7,8",1.520 Bewertungen
+Hotel D Bulle - La Gruyère,Bulle,€ 170,"8,9",1.234 Bewertungen
+Private Room in an old Farmhouse near Vaduz,Sevelen,€ 97,"7,8",211 Bewertungen
+Sorell Hotel St. Peter,"Stadtzentrum, Zürich",€ 611,"9,1",1.464 Bewertungen
+Hotel Birsighof Basel City Center,Basel,€ 171,"8,3",851 Bewertungen
+Hotel Europe Brig,Brig,€ 171,"7,9",1.284 Bewertungen
+Hôtel des Muverans,Ovronnaz,€ 175,"9,0",226 Bewertungen
+Résidence le Sapin & Bains de la Gruyère,Charmey,€ 253,"8,7",581 Bewertungen
+Hotel City Lugano,Lugano,€ 234,"8,8",789 Bewertungen
+Spacious cellar studio surrounded by mountains and lake,Schwanden,€ 125,"7,0",6 Bewertungen
+Veralto - Modern Suite with Como Lake view,Vacallo,€ 453,"9,9",25 Bewertungen
+Platinum - Luxury Suite,Massagno,€ 670,"8,9",10 Bewertungen
+NH Bern The Bristol,"Rotes Quartier, Bern",€ 292,"8,5",3.131 Bewertungen
+Hotel du Stand,Martigny-Ville,€ 128,"6,7",1.842 Bewertungen
+Hasli Lodge,Meiringen,€ 180,"6,8",1.425 Bewertungen
+Parkhotel Beatenberg,Beatenberg,€ 517,"7,8",610 Bewertungen
+Hôtel de la Paix Lausanne,"Stadtzentrum von Lausanne, Lausanne",€ 295,"8,4",1.888 Bewertungen
+Alpenlodge Kühboden,Fiesch,€ 254,"8,4",525 Bewertungen
+Chez Ninfa,Villeret,€ 58,"8,9",336 Bewertungen
+Hotel Porto Sofie Gottlieben,Gottlieben,€ 318,"8,9",1.013 Bewertungen
+Hotel de France,La Chaux-de-Fonds,€ 129,"7,8",841 Bewertungen
+Hotel Concordia,Davos,€ 225,"8,3",630 Bewertungen
+Hotel Kreuz,Holderbank,€ 193,"9,2",223 Bewertungen
+Hotel Restaurant Alte Brauerei,Celerina/Schlarigna,€ 215,"8,1",309 Bewertungen
+Nyon Hostel,Nyon,€ 154,"8,7",935 Bewertungen
+Hotel Regina,Wengen,€ 368,"8,1",709 Bewertungen
+Hotel Stockalperhof,Brig,€ 225,"8,5",1.238 Bewertungen
+Self Check-In Hotel David 22,St. Gallen,€ 158,"8,3",744 Bewertungen
+Hotel Sterne,Beatenberg,€ 264,"8,8",735 Bewertungen
+Badehotel Salina Maris – Wellness & Vintage,Mörel,€ 259,"7,7",278 Bewertungen
+Agora Swiss Night by Fassbind,Lausanne,€ 205,"8,3",3.919 Bewertungen
+Campingplatz mit Restaurant & Sportarena Leukerbad,Leukerbad,€ 81,"8,4",277 Bewertungen
+CITY STAY - Forchstrasse,"Zürichberg, Zürich",€ 267,"8,3",1.219 Bewertungen
+"Ski-in, central and cosy in the Chalet Diana, free access to swimming pool",Bettmeralp,€ 462,"8,8",52 Bewertungen
+MUE Cubes - Capsule Hotel,Basel,€ 91,"6,2",127 Bewertungen
+Hotel Lacotel,Avenches,€ 209,"7,9",748 Bewertungen
+Gasthof Engelberg,Scharnachtal ,€ 193,"8,5",482 Bewertungen
+Hotel Dufour,Biel/Bienne,€ 170,"6,7",720 Bewertungen
+Hotel-Restaurant Eyholz,Visp,€ 189,"8,5",369 Bewertungen
+Hotel Franziskaner,Chur,€ 157,"7,6",2.203 Bewertungen
+Hotel Sonnenhalde Wiesen,Wiesen,€ 254,"8,5",197 Bewertungen
+Alaïa Lodge,Crans-Montana,€ 388,"8,7",1.553 Bewertungen
+Hotel-Restaurant Löwen,Dielsdorf,€ 310,"8,2",307 Bewertungen
+Casa Sabrina,Pugerna,€ 346,"9,1",25 Bewertungen
+NTN HOUSE,St. Gallen,€ 89,"7,5",194 Bewertungen
+Hotel-Restaurant La Croix d’Or,Ballaigues,€ 172,"9,2",523 Bewertungen
+Nangijala Hostel,Disentis,€ 97,"8,2",464 Bewertungen
+Hotel La Balance self check-in,Biel/Bienne,€ 157,"8,6",311 Bewertungen
+EH Apartments Saturn,St. Gallen,€ 234,"8,6",378 Bewertungen
+Al Boccalino Bed&Breakfast,Melide,€ 160,"8,5",962 Bewertungen
+Hotel Residence,Grindelwald,€ 236,"7,7",1.290 Bewertungen
+Hotel du Cerf,Soubey,€ 148,"8,0",72 Bewertungen
+"""Terrasse"" Nessental",Gadmen,€ 161,"8,8",586 Bewertungen
+Hotel Untertor by Maier - Self-Check-in,Altstätten,€ 142,"7,8",484 Bewertungen
+B&B HOTEL Rothrist Olten,Rothrist,€ 224,"7,3",1.043 Bewertungen
+"Casa La Roda, Via da Scola 2",Sedrun,€ 190,"8,8",143 Bewertungen
+Hotel Neu-Schönstatt,Quarten,€ 237,"8,6",1.110 Bewertungen
+Mont-Fort Swiss Lodge,Le Châble,€ 146,"8,0",285 Bewertungen
+Hine Adon Fribourg Nord,Freiburg im Üechtland,€ 162,"9,0",76 Bewertungen
+Grand Hôtel & Kurhaus,Arolla,€ 199,"8,6",573 Bewertungen
+SOHO 8 !Lake-Mountain View & Free Parking!,Kreuzlingen,€ 267,"9,1",32 Bewertungen
+Belmont Residences in Zürich Opfikon Glattbrugg Oerlikon,Glattbrugg,€ 171,"8,8",21 Bewertungen
+Osteria Anzonico,Anzonico,€ 118,"8,2",402 Bewertungen
+Seldas,Schaffhausen,€ 144,"7,6",430 Bewertungen
+Sport-Lodge Klosters,Klosters-Serneus,€ 216,"8,9",198 Bewertungen
+Stoos Lodge,Stoos,€ 314,"9,0",1.104 Bewertungen
+Pracondu OUTDOOR & FUN appartement 8 personnes by Alpvision Résidences,Nendaz,€ 689,"6,4",20 Bewertungen
+Hôtel Astoria,"Saint-Gervais / des Grottes, Genf",€ 161,"8,1",4.834 Bewertungen
+Emma's B&B - Self Check-in Hotel,Lungern,€ 342,"8,9",787 Bewertungen
+Swiss Luxury Apartments,"Paquis, Genf",€ 810,"9,3",466 Bewertungen
+2Curio Court House Charming Lodge in Malcantone,Curio,€ 197,"8,9",10 Bewertungen
+Hostel 77 Bern,Bern,€ 155,"8,9",2.127 Bewertungen
+Hotel Le Rivage,Saint-Gingolph,€ 176,"7,7",751 Bewertungen
+Krafft Basel,"Altstadt Kleinbasel, Basel",€ 322,"8,7",1.150 Bewertungen
+Royal Hotel - Urban Living,"Basel Stadtzentrum, Basel",€ 180,"8,5",913 Bewertungen
+Hotel Cresta,Samnaun,€ 136,"8,8",192 Bewertungen
+Berggasthaus Piz Calmot,Andermatt,€ 186,"8,0",840 Bewertungen
+Therme 51° Hotel Physio & Spa,Leukerbad,€ 433,"8,5",403 Bewertungen
+My Home Hotel - Free Parking,Winterthur,€ 141,"7,7",1.617 Bewertungen
+La Fleur de Lys,Greyerz,€ 205,"8,7",1.230 Bewertungen
+"Charming Minusio Apartment, close to Locarno&Lake",Minusio,€ 208,"9,0",71 Bewertungen
+Hotel sleep&stay - Self Check-in,Eglisau,€ 172,"8,9",1.029 Bewertungen
+Hotel Reine Victoria,St. Moritz,€ 274,"8,5",831 Bewertungen
+Swiss Diamond Hotel & Spa,Morcote,€ 665,"8,5",1.445 Bewertungen
+Sportchalet Mürren,Mürren,€ 184,"8,5",807 Bewertungen
+Hotel Acla Filli,Zernez,€ 144,"7,9",511 Bewertungen
+Casa Ines,Bellinzona,€ 109,"8,4",257 Bewertungen
+Rigiblick am See,Buochs,€ 268,"7,9",1.246 Bewertungen
+Hôtel de Rougemont & Spa,"Rougemont, Gstaad",€ 566,"9,0",509 Bewertungen
+Residenza Lago di Lugano,Bissone,€ 414,"7,8",225 Bewertungen
+Hotel Arlette Beim Hauptbahnhof,"Stadtzentrum, Zürich",€ 195,"8,3",3.339 Bewertungen
+Garden Eden,Freienbach,€ 252,"8,8",51 Bewertungen
+Boutique-Hotel Rüden,Schaffhausen,€ 234,"8,7",781 Bewertungen
+Hôtel de la Gare,Saignelégier,€ 146,"8,5",107 Bewertungen
+2-4 Zimmer Apartments Stilvoll im Gertrud Schlössli - zentral ruhig,St. Gallen,€ 211,"9,5",63 Bewertungen
+ibis budget Winterthur,Winterthur,€ 119,"6,9",1.895 Bewertungen
+Terrasses du Paradis 7A LUXE & CENTER apart 8 pers,Nendaz,€ 2.477,"9,0",4 Bewertungen
+Hotel Meilenstein,Langenthal,€ 205,"9,0",755 Bewertungen
+Hotel Garni Sonne,Landschlacht Gemeinde Münsterlingen,€ 150,"8,6",335 Bewertungen
+Magnifique studio de plain-pied,La Chaux-de-Fonds,€ 106,10,1 Bewertung
+Hotel Astoria,Arosa,€ 262,"8,7",494 Bewertungen
+Caffè dell'Arte Boutique Rooms Locarno,Locarno,€ 264,"8,4",207 Bewertungen
+Mercure Fribourg Centre Remparts,Freiburg im Üechtland,€ 155,"8,4",683 Bewertungen
+Omnium Sport Hotel,Grenchen,€ 138,"7,9",307 Bewertungen
+Romantik Hotel Landhaus Liebefeld,Bern,€ 313,"8,6",476 Bewertungen
+BnB Lafleur,Montfaucon,€ 135,"9,0",42 Bewertungen
+ibis Chur,Chur,€ 179,"7,9",2.580 Bewertungen
+Hotel Schiffahrt,Mols,€ 169,"8,5",831 Bewertungen
+Escale,Givisiez,€ 126,"7,8",519 Bewertungen
+Post Hardermannli,Interlaken,€ 327,"8,6",1.598 Bewertungen
+Lugano Savosa Youth Hostel,Lugano,€ 131,"8,7",1.179 Bewertungen
+Nendaz 4 Vallées & SPA 4* Superior,Nendaz,€ 394,"8,6",1.003 Bewertungen
+Hotel Mon Repos,"Paquis, Genf",€ 160,"8,8",994 Bewertungen
+Alloggio con favolosa vista lago Lugano Paradiso,Paradiso,€ 140,"9,2",57 Bewertungen
+Grand Hotel National Luzern,"Altstadt, Luzern",€ 837,"8,7",561 Bewertungen
+Anstatthotel Affoltern am Albis - self-check-in,Affoltern,€ 113,"7,9",437 Bewertungen
+Hôtel de Gruyères,Greyerz,€ 221,"8,1",1.165 Bewertungen
+Hotel Central,Agarn,€ 169,"7,6",29 Bewertungen
+Auberge de Prangins,Prangins,€ 150,"8,5",402 Bewertungen
+Catrina Hostel,Disentis,€ 137,"8,6",529 Bewertungen
+Seehotel Waldstätterhof Swiss Quality,Brunnen,€ 435,"9,0",978 Bewertungen
+Hotel du Commerce,"Clara, Basel",€ 223,"7,9",437 Bewertungen
+"Chaleureux studio à Anzère, accessible à ski, proche de tout",Anzère,€ 152,"9,0",65 Bewertungen
+Hotel Crusch Alba Zernez,Zernez,€ 268,"9,2",1.255 Bewertungen
+Swiss Chocolate by Fassbind Lausanne,"Stadtzentrum von Lausanne, Lausanne",€ 162,"8,2",1.511 Bewertungen
+Mont Blanc Chalet,Grandevent,€ 406,"9,6",74 Bewertungen
+"Locanda della Masseria a Porza, Lugano",Porza,€ 146,"9,3",269 Bewertungen
+Hotel Silberhorn - Residences & Spa Wengen,Wengen,€ 419,"8,2",550 Bewertungen
+TRIP INN JET HOTEL Zürich Airport,Rümlang,€ 182,"8,1",3.784 Bewertungen
+City Pop 2Night Zürich City - Self check-in,"Aussersihl, Zürich",€ 195,"8,4",353 Bewertungen
+"Sunset Home, Appartement de luxe front de lac",Veytaux,€ 398,"9,0",21 Bewertungen
+Hotel America,Locarno,€ 216,"8,1",303 Bewertungen
+Hotel Kaiserstuhl,Lungern,€ 385,"8,3",659 Bewertungen
+ibis Styles St Margrethen Bodensee,St. Margrethen,€ 149,"8,6",1.320 Bewertungen
+City Hostel Geneva,"Paquis, Genf",€ 118,"7,7",2.370 Bewertungen
+Hotel Gabbani,"Stadtzentrum von Lugano, Lugano",€ 380,"8,6",932 Bewertungen
+Gasthaus Morgenrot,Embd,€ 89,"8,7",25 Bewertungen
+Basel Backpack,Basel,€ 101,"8,4",2.835 Bewertungen
+Hôtel Splendide,Crans-Montana,€ 268,"9,2",143 Bewertungen
+City Home St Gallen,St. Gallen,€ 100,"6,6",625 Bewertungen
+"The Ritz-Carlton Hotel de la Paix, Geneva","Saint-Gervais / des Grottes, Genf",€ 1.312,"8,9",228 Bewertungen
+Alpenblick Ferenberg Bern,Stettlen,€ 177,"7,7",188 Bewertungen
+Ospizio San Gottardo,Airolo,€ 256,"8,3",222 Bewertungen
+B&B HOTEL Oftringen,Oftringen,€ 191,"7,7",1.345 Bewertungen
+The Raven B&B,Ayer,€ 127,"9,3",33 Bewertungen
+Gruyère Rooms,Greyerz,€ 171,"8,7",1.318 Bewertungen
+Hotel Krone,Wassen,€ 97,"6,5",151 Bewertungen
+Acasa Suites,"Seebach, Zürich",€ 280,"8,9",1.900 Bewertungen
+Hotel Restaurant Florida,Studen,€ 155,"8,3",668 Bewertungen
+Fred Hotel Leonhardstrasse - Self Check-in,"Oberstrass, Zürich",€ 314,"8,4",886 Bewertungen
+Hotel Seehof,"Seefeld, Zürich",€ 313,"8,2",992 Bewertungen
+Roses & Nature,Saint-Gingolph,€ 136,,
+Albergo Ristorante della Posta,Morcote,€ 140,"8,4",647 Bewertungen
+Swissôtel Kursaal Bern,"Breitenrain-Lorraine, Bern",€ 231,"8,6",3.424 Bewertungen
+Lavaux nice place in Swiss French part,Rivaz,€ 100,"7,6",13 Bewertungen
+Appartement Bristol Villars-sur-Ollon,Villars-sur-Ollon,€ 362,"8,9",16 Bewertungen
+Apart Hotel Adelboden am Dorfplatz,Adelboden,€ 536,"8,7",532 Bewertungen
+b-smart motel Sevelen,Sevelen,€ 167,"7,7",471 Bewertungen
+Budget Motel Self Check-In,Dällikon,€ 158,"7,8",385 Bewertungen
+Hotel Löwen am See,Zug,€ 345,"8,9",663 Bewertungen
+Gotthard Backpacker,Wassen,€ 140,"8,4",160 Bewertungen
+TONIGHT Apartments,Bottmingen,€ 221,"8,6",10 Bewertungen
+Hotel Europe,Zinal,€ 182,"8,3",427 Bewertungen
+Apartment Madlaina,Samnaun,€ 200,"9,2",80 Bewertungen
+Zurich Furnished Apartments,"Wiedikon, Zürich",€ 480,"7,9",666 Bewertungen
+Unterkunft in Gerlafingen,Gerlafingen,€ 151,"8,8",54 Bewertungen
+RISTORO TANEDA,Quinto,€ 175,"9,0",62 Bewertungen
+KB CityRooms Self-Check-In,"Altstadt, Luzern",€ 312,"7,2",39 Bewertungen
+HÔTEL DE VILLE - La Baie Du Lac,LʼAbbaye,€ 129,"7,0",383 Bewertungen
+Vreneli,Mitlödi,€ 159,"9,3",24 Bewertungen
+ODELYA - Stadthotel im Park,"Basel Stadtzentrum, Basel",€ 292,"8,7",1.182 Bewertungen
+Hotel Montana,"Saint-Gervais / des Grottes, Genf",€ 195,"7,7",1.124 Bewertungen
+ibis Styles Zurich City Center,"Unterstrass, Zürich",€ 354,"7,9",7.484 Bewertungen

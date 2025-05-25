@@ -44,11 +44,9 @@ def main():
 
             # Loop: Scroll + Button-Klicks
             loop_count = 0
-            total_hotels_loaded = 0
 
             while True:
                 loop_count += 1
-                range_start = total_hotels_loaded + 1
                 print(f"\n=== Lade Hotels (Loop {loop_count}) ===")
 
                 # Scrollen
@@ -62,11 +60,6 @@ def main():
                         load_more_button.click()
                         page.wait_for_load_state("networkidle", timeout=10000)
                         time.sleep(3)
-                        
-
-                        if loop_count >= 3:
-                            print(f"\n Maximale Anzahl von {loop_count} Hotels erreicht. Beende den Loop.")
-                            break
                     else:
                         print("Kein 'Weitere Suchergebnisse laden'-Button mehr sichtbar.")
                         break
