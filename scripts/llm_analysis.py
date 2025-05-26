@@ -1,28 +1,27 @@
 import sqlite3
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 from tqdm import tqdm
-import os
 
 # Connect to SQLite Database
-conn = sqlite3.connect('../swiss_travel.db')  # Adjust path if necessary
+conn = sqlite3.connect('../swiss_travel.db')  # Adjust the path as needed
 
-# Load and join data with SQL
+# Use top 50 rows
 query = """
 SELECT 
 *
 FROM hotels h
-LIMIT 1
-"""
+LIMIT 50
+"""  # Adjust the limit for testing or remove for all rows
 df = pd.read_sql_query(query, conn)
 
-# Load Falcon 7B Instruct model
-model_name = "tiiuae/falcon-7b-instruct"
+# Load BART model
+model_name = "facebook/bart-large-cnn"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto", torch_dtype="auto")
+model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
-# Create text-generation pipeline
-generator = pipeline("text-generation", model=model, tokenizer=tokenizer, device_map="auto", torch_dtype="auto")
+# Create summarization pipeline
+summarizer = pipeline("summarization", model=model, tokenizer=tokenizer, device=-1)  # device=-1 for CPU, 0 for GPU
 
 print("Model and tokenizer loaded. Ready to generate summaries.")
 
@@ -36,20 +35,15 @@ def generate_description(row):
     if pd.isna(row['hotel']) or pd.isna(row['place']):
         return "No description available."
     prompt = f"""
-### Instruction:
-Create a short, engaging description for the following hotel in 2-3 sentences.
-
-### Hotel Information:
+Create 2-3 sentences that describe the following hotel. The reviews are on Booking.com:
 - Hotel name: {row['hotel']}
 - Location: {row['place']}
 - Price per night: {row['price_cleaned']} CHF
 - Rating: {row['rating_cleaned']} stars
 - Number of reviews: {row['review_counter_cleaned']}
-
-### Description:
 """
-    result = generator(prompt, max_length=150, temperature=0.7, top_p=0.9, do_sample=True, num_return_sequences=1)
-    return result[0]['generated_text'].split('### Description:')[-1].strip()
+    result = summarizer(prompt, max_length=60, min_length=20, do_sample=False)
+    return result[0]['summary_text']
 
 # Apply the description generation function to each row in the DataFrame
 df['description'] = df.progress_apply(generate_description, axis=1)
@@ -58,8 +52,5 @@ df['description'] = df.progress_apply(generate_description, axis=1)
 print(df[['hotel', 'description']].head())
 
 # Save the DataFrame with descriptions
-# Datenordner sicherstellen
-os.makedirs('data', exist_ok=True)
-
 df.to_csv('../data/hotels_summaries.csv', index=False)
 print(f"Alle Hotels gespeichert in data/hotels_summaries.csv")
